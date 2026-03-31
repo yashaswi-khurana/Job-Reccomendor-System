@@ -47,7 +47,7 @@ st.sidebar.title("AI Job Recommender")
 st.sidebar.markdown("""
 This system automatically:
 1. Extracts skills from your resume
-2. Scrapes real-time remote tech jobs
+2. Scrapes real-time remote jobs across all industries
 3. Matches your profile using Semantic AI
 4. Recommends skill improvements
 """)
@@ -150,7 +150,7 @@ if uploaded_file is not None:
                 st.markdown("### 🎓 Recommended Courses")
                 for c in courses:
                     search_query = c['skill'].replace(' ', '%20')
-                    st.write(f"- **{c['skill'].title()}**: [{c['course']}](https://www.coursera.org/search?query={search_query})")
+                    st.write(f"- **{c['skill'].title()}**: [{c['course']}](https://www.udemy.com/courses/search/?src=ukw&q={search_query})")
             else:
                 st.write("No specific courses needed.")
                 

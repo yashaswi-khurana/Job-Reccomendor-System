@@ -19,13 +19,14 @@ def strip_html(html_str):
     except:
         return html_str
 
-def fetch_jobs_from_api(limit=50, category='software-dev'):
+def fetch_jobs_from_api(limit=50, category=''):
     """
     Fetches real-time job listings from the Remotive API.
     Returns a list of dictionaries.
     """
     try:
-        response = requests.get(f"{REMOTIVE_API_URL}?category={category}", timeout=10)
+        url = REMOTIVE_API_URL if not category else f"{REMOTIVE_API_URL}?category={category}"
+        response = requests.get(url, timeout=10)
         if response.status_code == 200:
             data = response.json()
             jobs = data.get('jobs', [])[:limit]
@@ -87,13 +88,53 @@ def get_mock_jobs():
         },
         {
             'job_id': 'm4',
-            'title': 'Frontend Web Developer',
-            'company': 'DesignStudio',
-            'location': 'Remote',
-            'description': 'Looking for a React developer with deep knowledge of HTML, CSS, JavaScript, and Node.js.',
+            'title': 'Chief Medical Officer',
+            'company': 'HealthCare Partners',
+            'location': 'Remote / On-Site',
+            'description': 'Leading patient care strategies, clinical research, and medical terminology standardizations. Requirements: MD, Surgery experience, EMR knowledge.',
             'url': 'https://example.com/job/m4',
-            'salary': '$90,000',
-            'skills_required': 'React, JavaScript, HTML, CSS, Node.js'
+            'salary': '$250,000+',
+            'skills_required': 'Patient Care, Diagnosis, Surgery, EMR, Clinical Research'
+        },
+        {
+            'job_id': 'm5',
+            'title': 'Human Resources Manager',
+            'company': 'PeopleFirst Inc',
+            'location': 'Remote',
+            'description': 'We need an experienced HR Manager for onboarding, payroll, talent management, and employee relations.',
+            'url': 'https://example.com/job/m5',
+            'salary': '$90,000 - $120,000',
+            'skills_required': 'Recruitment, Employee Relations, Payroll, Onboarding, Talent Management'
+        },
+        {
+            'job_id': 'm6',
+            'title': 'Senior Financial Analyst',
+            'company': 'Global Finance Corp',
+            'location': 'New York, NY',
+            'description': 'MBA highly preferred. Role involves financial modeling, strategic planning, budgeting, and Excel. Strong communication skills required.',
+            'url': 'https://example.com/job/m6',
+            'salary': '$110,000 - $140,000',
+            'skills_required': 'Strategic Planning, Budgeting, Financial Modeling, Excel, Finance'
+        },
+        {
+            'job_id': 'm7',
+            'title': 'Chief Executive Officer',
+            'company': 'Stealth Startup',
+            'location': 'San Francisco, CA',
+            'description': 'Seeking an experienced CEO for corporate strategy, executive management, mergers & acquisitions, and stakeholder management.',
+            'url': 'https://example.com/job/m7',
+            'salary': 'Equity + Base',
+            'skills_required': 'Corporate Strategy, Executive Management, Mergers & Acquisitions, Leadership'
+        },
+        {
+            'job_id': 'm8',
+            'title': 'Civil Engineer',
+            'company': 'BuildRight',
+            'location': 'Austin, TX',
+            'description': 'Civil Engineer needed for infrastructure projects. Proficiency in AutoCAD, SolidWorks, and project management.',
+            'url': 'https://example.com/job/m8',
+            'salary': '$95,000 - $125,000',
+            'skills_required': 'Civil Engineering, AutoCAD, SolidWorks, Project Management'
         }
     ]
 

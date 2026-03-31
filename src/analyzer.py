@@ -31,14 +31,23 @@ def recommend_courses(missing_skills):
         'python': 'Complete Python Bootcamp - Udemy',
         'java': 'Java Programming Masterclass - Udemy',
         'sql': 'The Complete SQL Bootcamp - Udemy',
-        'machine learning': 'Machine Learning Specialization - Coursera (Stanford)',
+        'machine learning': 'Machine Learning A-Z - Udemy',
         'react': 'React - The Complete Guide - Udemy',
         'aws': 'AWS Certified Solutions Architect - Udemy',
         'docker': 'Docker Mastery - Udemy',
         'kubernetes': 'Kubernetes for Beginners - Udemy',
-        'pandas': 'Data Analysis with Pandas - Coursera',
-        'tensorflow': 'Deep Learning Specialization - Coursera',
-        'excel': 'Excel Skills for Business - Coursera',
+        'pandas': 'Data Analysis with Pandas - Udemy',
+        'tensorflow': 'Deep Learning A-Z - Udemy',
+        'excel': 'Microsoft Excel - Advanced - Udemy',
+        'patient care': 'Patient Care & Medical Terminology - Udemy',
+        'hr': 'HR Management Certification - Udemy',
+        'recruitment': 'Recruiting & Talent Acquisition - Udemy',
+        'mba': 'The Entire MBA in 1 Course - Udemy',
+        'marketing': 'Digital Marketing Masterclass - Udemy',
+        'ceo': 'Executive Leadership & Management - Udemy',
+        'autocad': 'AutoCAD for Beginners - Udemy',
+        'communication': 'Effective Communication Skills - Udemy',
+        'finance': 'Complete Financial Analyst Course - Udemy',
     }
     
     for skill in missing_skills:
@@ -53,7 +62,7 @@ def recommend_courses(missing_skills):
             recommendations.append({"skill": skill, "course": course_found})
         else:
             # Generic fallback
-            recommendations.append({"skill": skill, "course": f"Intro to {skill.title()} - Coursera / Udemy"})
+            recommendations.append({"skill": skill, "course": f"Intro to {skill.title()} - Udemy"})
             
     return recommendations
 

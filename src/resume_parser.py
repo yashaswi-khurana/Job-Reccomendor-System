@@ -23,14 +23,26 @@ except Exception:
 
 # A simple predefined list of skills for extraction (this can be expanded or loaded from a file/DB)
 COMMON_SKILLS = [
+    # Tech
     'python', 'java', 'c++', 'sql', 'javascript', 'react', 'node.js', 'html', 'css',
     'machine learning', 'data analysis', 'deep learning', 'nlp', 'computer vision',
     'aws', 'azure', 'gcp', 'docker', 'kubernetes', 'git', 'agile', 'scrum',
     'tensorflow', 'pytorch', 'scikit-learn', 'pandas', 'numpy', 'matplotlib',
-    'tableau', 'power bi', 'excel', 'communication', 'leadership', 'problem solving',
-    'project management', 'teamwork', 'go', 'ruby', 'php', 'c#', 'swift', 'kotlin',
+    'tableau', 'power bi', 'excel', 'go', 'ruby', 'php', 'c#', 'swift', 'kotlin',
     'linux', 'bash', 'shell script', 'rest api', 'graphql', 'mongodb', 'postgresql',
-    'mysql', 'redis', 'elasticsearch', 'kafka', 'rabbitmq'
+    'mysql', 'redis', 'elasticsearch', 'kafka', 'rabbitmq',
+    # Soft Skills & Management
+    'communication', 'leadership', 'problem solving', 'project management', 'teamwork',
+    # Medical & Healthcare
+    'patient care', 'diagnosis', 'surgery', 'emr', 'clinical research', 'nursing', 'medical terminology',
+    # HR
+    'recruitment', 'employee relations', 'payroll', 'onboarding', 'talent management', 'human resources',
+    # MBA & Business
+    'strategic planning', 'budgeting', 'financial modeling', 'marketing', 'sales', 'product management', 'finance', 'accounting',
+    # Executive & CEO
+    'corporate strategy', 'executive management', 'mergers & acquisitions', 'stakeholder management', 'business development',
+    # Other Engineering
+    'autocad', 'solidworks', 'matlab', 'civil engineering', 'mechanical engineering', 'manufacturing', 'quality assurance'
 ]
 
 def extract_text_from_pdf(pdf_path):
