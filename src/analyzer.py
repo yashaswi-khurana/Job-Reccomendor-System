@@ -19,52 +19,6 @@ def identify_skill_gaps(resume_skills, job_skills_str):
         "match_percentage": round(len(matched_skills) / len(j_skills_set) * 100, 2) if j_skills_set else 100.0
     }
 
-def recommend_courses(missing_skills):
-    """
-    Given a list of missing skills, recommend some general courses.
-    In a production system, this would query a real API (like Coursera or Udemy).
-    Here we use a generic mapping for demonstration.
-    """
-    recommendations = []
-    
-    course_map = {
-        'python': 'Complete Python Bootcamp - Udemy',
-        'java': 'Java Programming Masterclass - Udemy',
-        'sql': 'The Complete SQL Bootcamp - Udemy',
-        'machine learning': 'Machine Learning A-Z - Udemy',
-        'react': 'React - The Complete Guide - Udemy',
-        'aws': 'AWS Certified Solutions Architect - Udemy',
-        'docker': 'Docker Mastery - Udemy',
-        'kubernetes': 'Kubernetes for Beginners - Udemy',
-        'pandas': 'Data Analysis with Pandas - Udemy',
-        'tensorflow': 'Deep Learning A-Z - Udemy',
-        'excel': 'Microsoft Excel - Advanced - Udemy',
-        'patient care': 'Patient Care & Medical Terminology - Udemy',
-        'hr': 'HR Management Certification - Udemy',
-        'recruitment': 'Recruiting & Talent Acquisition - Udemy',
-        'mba': 'The Entire MBA in 1 Course - Udemy',
-        'marketing': 'Digital Marketing Masterclass - Udemy',
-        'ceo': 'Executive Leadership & Management - Udemy',
-        'autocad': 'AutoCAD for Beginners - Udemy',
-        'communication': 'Effective Communication Skills - Udemy',
-        'finance': 'Complete Financial Analyst Course - Udemy',
-    }
-    
-    for skill in missing_skills:
-        # Match roughly
-        course_found = None
-        for key, course in course_map.items():
-            if key in skill or skill in key:
-                course_found = course
-                break
-                
-        if course_found:
-            recommendations.append({"skill": skill, "course": course_found})
-        else:
-            # Generic fallback
-            recommendations.append({"skill": skill, "course": f"Intro to {skill.title()} - Udemy"})
-            
-    return recommendations
 
 def suggest_resume_improvements(missing_skills):
     """

@@ -1,0 +1,5 @@
+We assume that resume being uploaded are good: Currently we rely on pytessaract for ocr we can use finer models like olm ocr for better results if the text is blur.
+
+We are not collecting data so we cannot update the common skill lists in future we are planning to collect the data and extract the skills and store in redis cache.
+
+Based on relevance feedback we will provide weights to the skill

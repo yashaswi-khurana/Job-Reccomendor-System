@@ -21,30 +21,6 @@ except Exception:
     except Exception as e:
         print(f"Warning: Could not load or download spacy model. Entities will not be extracted. {e}")
 
-# A simple predefined list of skills for extraction (this can be expanded or loaded from a file/DB)
-COMMON_SKILLS = [
-    # Tech
-    'python', 'java', 'c++', 'sql', 'javascript', 'react', 'node.js', 'html', 'css',
-    'machine learning', 'data analysis', 'deep learning', 'nlp', 'computer vision',
-    'aws', 'azure', 'gcp', 'docker', 'kubernetes', 'git', 'agile', 'scrum',
-    'tensorflow', 'pytorch', 'scikit-learn', 'pandas', 'numpy', 'matplotlib',
-    'tableau', 'power bi', 'excel', 'go', 'ruby', 'php', 'c#', 'swift', 'kotlin',
-    'linux', 'bash', 'shell script', 'rest api', 'graphql', 'mongodb', 'postgresql',
-    'mysql', 'redis', 'elasticsearch', 'kafka', 'rabbitmq',
-    # Soft Skills & Management
-    'communication', 'leadership', 'problem solving', 'project management', 'teamwork',
-    # Medical & Healthcare
-    'patient care', 'diagnosis', 'surgery', 'emr', 'clinical research', 'nursing', 'medical terminology',
-    # HR
-    'recruitment', 'employee relations', 'payroll', 'onboarding', 'talent management', 'human resources',
-    # MBA & Business
-    'strategic planning', 'budgeting', 'financial modeling', 'marketing', 'sales', 'product management', 'finance', 'accounting',
-    # Executive & CEO
-    'corporate strategy', 'executive management', 'mergers & acquisitions', 'stakeholder management', 'business development',
-    # Other Engineering
-    'autocad', 'solidworks', 'matlab', 'civil engineering', 'mechanical engineering', 'manufacturing', 'quality assurance'
-]
-
 def extract_text_from_pdf(pdf_path):
     text = ""
     with pdfplumber.open(pdf_path) as pdf:
@@ -78,15 +54,19 @@ def extract_text_from_file(file_path):
         except:
             raise ValueError(f"Unsupported file format: {ext}")
 
-def extract_skills(text):
+def extract_skills(text, skills_list):
     text_lower = text.lower()
     found_skills = set()
-    for skill in COMMON_SKILLS:
+    for skill in skills_list:
+        skill_clean = skill.strip().lower()
+        if not skill_clean:
+            continue
         # Check if the skill is in the text as a standalone word/phrase
         # Using word boundaries to avoid partial matches (e.g., 'go' matching 'going')
-        pattern = r'\b' + re.escape(skill) + r'\b'
+        # We need to escape the skill for regex matching
+        pattern = r'\b' + re.escape(skill_clean) + r'\b'
         if re.search(pattern, text_lower):
-            found_skills.add(skill)
+            found_skills.add(skill_clean)
     return list(found_skills)
 
 def extract_entities(text):
@@ -108,28 +88,22 @@ def extract_entities(text):
                     entities[ent.label_].append(ent.text.strip())
     return entities
 
-def parse_resume(file_path):
+def extract_years_of_experience(text):
     """
-    Main parsing function. Returns a dictionary containing raw text and extracted information.
+    Extract the highest number of years of experience mentioned in the text.
     """
-    text = extract_text_from_file(file_path)
-    
-    # Clean text slightly
-    clean_text = re.sub(r'\\s+', ' ', text).strip()
-    
-    skills = extract_skills(clean_text)
-    entities = extract_entities(clean_text)
-    
-    return {
-        "raw_text": clean_text,
-        "skills": skills,
-        "entities": entities
-    }
+    pattern = r'(\d+)\+?\s*(?:years?|yrs?)(?:\s*of)?\s*experience'
+    matches = re.findall(pattern, text, re.IGNORECASE)
+    if matches:
+        years = [int(m) for m in matches]
+        return max(years)
+    return 0
 
 if __name__ == "__main__":
     # Small test
     sample_text = "I am a software engineer with 5 years of experience in Python, Java, and SQL. I have worked at Google."
-    print("Skills:", extract_skills(sample_text))
+    test_skills = ["python", "java", "sql", "c++", "go"]
+    print("Skills:", extract_skills(sample_text, test_skills))
     
     # Try parsing nlp
     try:

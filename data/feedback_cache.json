@@ -1,0 +1,243 @@
+[
+    {
+        "user_skills": [
+            "git",
+            "docker",
+            "pandas",
+            "numpy",
+            "sql",
+            "javascript",
+            "python"
+        ],
+        "job_id": 2088704,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "git",
+            "docker",
+            "pandas",
+            "numpy",
+            "sql",
+            "javascript",
+            "python"
+        ],
+        "job_id": 2088710,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "git",
+            "docker",
+            "pandas",
+            "numpy",
+            "sql",
+            "javascript",
+            "python"
+        ],
+        "job_id": 2089958,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "git",
+            "docker",
+            "pandas",
+            "numpy",
+            "sql",
+            "javascript",
+            "python"
+        ],
+        "job_id": 2089990,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [
+            "git",
+            "docker",
+            "pandas",
+            "numpy",
+            "sql",
+            "javascript",
+            "python"
+        ],
+        "job_id": 2090000,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "marketing",
+            "leadership",
+            "budgeting"
+        ],
+        "job_id": 2088707,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [
+            "marketing",
+            "leadership",
+            "budgeting"
+        ],
+        "job_id": 1185979,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "marketing",
+            "leadership",
+            "budgeting"
+        ],
+        "job_id": 1749306,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "payroll",
+            "communication",
+            "sales"
+        ],
+        "job_id": 2090000,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [
+            "responsive",
+            "docker",
+            "git",
+            "data science",
+            "javascript",
+            "github",
+            "sql",
+            "python",
+            "api",
+            "angular",
+            "computer science"
+        ],
+        "job_id": 2088704,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "responsive",
+            "docker",
+            "git",
+            "data science",
+            "javascript",
+            "github",
+            "sql",
+            "python",
+            "api",
+            "angular",
+            "computer science"
+        ],
+        "job_id": 2089958,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "responsive",
+            "docker",
+            "git",
+            "data science",
+            "javascript",
+            "github",
+            "sql",
+            "python",
+            "api",
+            "angular",
+            "computer science"
+        ],
+        "job_id": 2090000,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "responsive",
+            "docker",
+            "git",
+            "data science",
+            "javascript",
+            "github",
+            "sql",
+            "python",
+            "api",
+            "angular",
+            "computer science"
+        ],
+        "job_id": 2088706,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "research",
+            "documentation",
+            "insurance",
+            "testing"
+        ],
+        "job_id": 2090000,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [
+            "research",
+            "documentation",
+            "insurance",
+            "testing"
+        ],
+        "job_id": 2088706,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [
+            "research",
+            "documentation",
+            "insurance",
+            "testing"
+        ],
+        "job_id": 1680495,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [
+            "research",
+            "documentation",
+            "insurance",
+            "testing"
+        ],
+        "job_id": 2088655,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [],
+        "job_id": 2088655,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [],
+        "job_id": 2086540,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [],
+        "job_id": 2088656,
+        "is_relevant": true
+    },
+    {
+        "user_skills": [],
+        "job_id": 2090000,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [],
+        "job_id": 2088706,
+        "is_relevant": false
+    },
+    {
+        "user_skills": [
+            "accounting"
+        ],
+        "job_id": 2090000,
+        "is_relevant": false
+    }
+]

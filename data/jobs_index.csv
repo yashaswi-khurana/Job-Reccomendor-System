@@ -1,210 +1,315 @@
 job_id,title,company,location,description,url,salary,skills_required
-2088696,Technical Support Operator,KnownHost,USA,"THIS IS WHO YOU ARE… 
- You are our front line in the battle for exceptional customer experience at the 24/7/365 help desk. 
- Ideally, you have experienced terrible web hosting customer service and have vowed that will never happen on your watch! 
- You are responsible for seeing that our customers have excellent customer service by doing what you do every day -> exceeding customer expectations. 
- WHAT DO WE NEED FROM YOU?  Well, you should be customer focused, great under pressure, and ready to engage a problem with your superior analytic skills. Can you do several things at a time with amazing efficiency? Good! If you are a super ninja with web hosting applications and platforms -> we need to talk. 
- MORE ABOUT THE POSITION . These will be your primary responsibilities in your daily goal to fight bad web hosting: 
- Hiring for day shift employees CST.  Provide customers support via our 24/7 helpdesk. Troubleshooting email delivery issues Troubleshooting cPanel, Plesk, and DirectAdmin related issues Troubleshooting DNS, FTP, SSL, Apache, and other service-related issues. 
- Ensuring customer satisfaction 
- You must know Linux like your favorite cheeseburger and fries’ combo! Here are your other amazing attributes: 
- Must be customer-focused, and willing to do whatever it takes to resolve customer issues. Going above and beyond is the standard at KnownHost. Our customer reviews reflect this. 
- Excellent written English. Technical Support Operators currently primarily provide support over email, but may occasionally be asked to pitch in with live chat and phone support. 
- Must be familiar with Linux shell (bash), Apache, PHP, MySQL, email (POP3/IMAP/SMTP), FTP, DNS, and other standard web hosting applications and protocols. 
- Must be able to work under pressure when bad stuff happens and get the job done. 
- Multi-tasking is a must. KnownHost has a lot going on, and multiple brands. 
- Must be able to ask customers for complete error message or derive the context of their problem if they provide insufficient information. 
- Must have working knowledge of one of the following control panels, cPanel/WHM, Plesk, and DirectAdmin is required.  
- Knowledge of PHP, Python, Perl, and Ruby on Rail a bonus.  
- Working Knowledge of Iptables firewalls (CSF, APF, etc.) 
- Common customer website apps, like Drupal, WordPress, MediaWiki, Magento, ZenCart, etc 
- MySQL commands for support or troubleshooting, like importing/dumping a database, simple SELECT statements or ""SHOW PROCESSLIST"" 
- WHY IS KNOWNHOST THE RIGHT FIT FOR YOU?  We are seeking extraordinary people in a world of mediocrity. You must live and breathe web hosting. To attract and retain top-level talent, we are prepared to treat you like a VIP. 
- With plush benefits, paid vacation time, and competitive pay, we believe that KnownHost can be your next home away from home. Here is how we let you know that you are valued on our red carpet: 
+2090002,Senior DevOps Engineer,Lemon.io,"Americas, Europe, Asia, Oceania","Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. 
+   
+ What we offer: 
  
- Competitive pay between $14 to $20 per hour (depending on experience) 
- Comprehensive health, dental, and vision insurance plans (US only) 
- Flexible scheduling, & paid vacation benefits.  
- A variety of other perks and benefits 
+ The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. 
+ No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. 
+ We'll manually find the best project for you according to your skills and preferences. 
+ Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. 
+ We respect your seniority so you can expect no micromanagement or screen trackers. 
+ Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? 
+ We will support you from the time you submit the application throughout all cooperation stages. 
+ Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. 
+ Through our community, we will connect you with the best developers from more than 71 countries. 
  
- All our positions are full-time employment, so we expect KnownHost to be your only hosting related job. 
- All you should do is know your field from every position, pass the background/ drug test, and let us do the rest! 
- Apply today and let us get to know you!",https://remotive.com/remote-jobs/customer-service/technical-support-operator-2088696,$30k - $40k,"apache, drupal, magento, perl, php, python, ruby/rails, wordpress, bash, dns, web hosting, helpdesk, MySQL, technical support, chat, troubleshooting, Linux/Unix, shell, REST, insurance"
-2088663,Junior Project Coordinator,C4Media Inc.,"Brazil, Argentina","C4Media, Inc.  is seeking a motivated, fully remote  Junior Project Coordinator (contractor)  to join our global team. In this role, you will provide essential support for our expanding online learning and certification cohorts. 
- As a Junior Project Coordinator, you will assist the team in planning and executing our virtual learning programs for software professionals. This is a foundational, entry-level role designed for someone who thrives on organization, clear communication, and the ""behind-the-scenes"" work. 
- You will work under the close guidance of our program leads, learning the operational ""ins and outs"" of professional education in a highly collaborative environment. 
- What You’ll Do 
- Working as part of a team, you will assist with the daily operations of our online learning cohorts: 
+   
+ We have several openings for Senior DevOps Engineers, with two types of requirements. 
+   
+ Requirements – DevOps with Azure DevOps: 
+ 
+ 4+ years of experience as a DevOps Engineer 
+ At least 3 years of experience with Azure DevOps 
+ Experience in at least 2 commercial projects using Microsoft Azure or Kubernetes is required 
+ 
+   
+ Requirements – DevOps with AWS/GCP/SQL: 
  
  
- Customer Service:  Act as a first point of contact for learners. You’ll help distribute onboarding materials, answer inquiries, and follow up to ensure participants have a smooth experience. 
- Logistics Assistance:  Help maintain our digital learning environments, including Zoom room administration, Google Drive organization, and coordinating Slack communications. 
- Editorial Pipeline Support:  Support the coordination of ""Capstone"" learning projects by collecting participant bios, tracking deadlines, and sharing information with our internal editorial team. 
- Trainer Coordination:  Provide administrative support to facilitators by ensuring session materials are organized and sessions are ready to launch. 
- Data Entry & Tracking:  Assist in keeping our databases accurate. You’ll help track attendance, distribute feedback surveys, and compile results for program reports. 
- Ad-Hoc Team Support:  Help with research tasks and small operational details, such as tracking costs or coordinating with Finance and Marketing. 
+ 4+ years of experience as a DevOps Engineer 
+ 
+ 
+ At least 3 years of experience with AWS, GCP, or SQL 
+ 
+ 
+ At least 3 years of commercial experience with Python 
+ 
+ 
+ Experience in at least 2 commercial projects using Terraform or Kubernetes is required 
  
  
    
- Job Requirements 
-   
- Professional Experience, Skills & Education: 
-   
  
  
- Excellent English proficiency (written & spoken) with the ability to communicate professionally with a global audience. 
- A customer-first mindset—you are naturally helpful, patient, and supportive. 
- Sharp attention to detail and exceptional organizational skills. 
- Comfort with remote productivity tools such as Google Workspace and Slack. 
- Technology curiosity: A desire to learn new software. Experience with CRMs, Figma, or basic HTML is a plus, but not required. 
- A recent degree or 1-2 years of experience in an administrative or customer-facing role. 
- A proactive, solution-oriented mindset with a strong willingness to help. 
+ Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. 
  
  
-   
- Setup Requirements: 
-   
+ Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. 
  
  
- Able to work in a full-time remote position 
- Must reside in Argentina or Brazil 
- Able to work as an independent contractor 
- Able to work in overlap with our core global office hours (9 AM - 1 PM EST) 
- Quiet home office and ability to work comfortably from home 
- Reliable infrastructure: Access to high-speed internet and a modern computer 
- Able and willing to travel to locations in the USA or Europe 1 - 3 times per year, with an average stay of 4-8 days each, to attend our software conferences and annual company meetings 
+ Strong self-organizational skills — ability to work full-time remotely with no supervision. 
+ 
+ 
+ Reliability — we want to trust you and expect that you won’t let us and the client down. 
+ 
+ 
+ Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. 
  
  
    
- Only candidates who submit their  applications in English  will be considered for this role (including resume). 
- Why work at C4Media 
+ Sounds good for you? Apply now and join the  Lemon.io  community! 
+   
+ NOT YOUR TECH STACK? 
+ We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas and roles: AI Agent Architect, AI Automation Architect, React & Ruby, PHP & Angular, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Angular & .NET, Angular & Node.js, Vue & .NET, Python & Vue, MLOps, React & Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, AI Engineering, Data Annotation, React & Node, React & Golang, React & Python, Golang, Python & Flask, Svelte & Python, Svelte & Node, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, Python & Node, Angular & TypeScript, Ruby & Ruby on Rails, React Native & Ruby, React Native & Python, PHP & Laravel, .NET & C#, Java & Spring, Unreal Engine & C++, Python & LLM, Unity, Machine Learning Engineering — we’d be happy to connect and match you with a suitable project. 
+   
+ If your experience matches our requirements, be ready for the next steps: 
  
- 
- Work from home - always : We are a remote-first and remote-always team who has been successfully operating on a work-from-home basis since 2007. And we have no intention of changing that. 
- Travel the world:  C4Media offers an opportunity to travel 3-4 times a year at our expense to NYC, SF, London, and other fun, global locations for conferences & team building. We also got you covered to add a sightseeing day to the end of the trip. 
- Take care of each other:  We look out for one another and prioritize respect, fairness, support, and well-being. Check out our core values on our careers page. 
- Learn something new:  C4Media’s culture is one of learning & mastering. Everyone has a training and education budget for professional growth every year and is encouraged to use it. 
- Make friends across the world : Be a part of a leading, fast-growing international company and build a network of international friends and colleagues for life. 
- Support wellbeing:  In an effort to make physical activity more readily accessible, we offer staff an annual subsidy towards fitness and wellness. 
- Generous paid time off:  In addition to 25 paid days off in the 1st year and 30 paid days off in every subsequent year, we provide 1 paid day off for birthdays (or a similar special day) and 2 paid days for continuing education. 
- Mentorship : Receive direct guidance and professional development from experienced project leads. 
- Global Exposure : Interact with tech professionals and world-class trainers daily. 
- Event Experience : Gain a front-row seat to how major international conferences are run, with potential opportunities to support in-person events. 
- 
+ VideoAsk — watch a short video about our startup, up to 10 minutes 
+ Complete your profile on our website 
+ Intro call 
+ Technical interview 
+ Feedback 
+ Magic Box (we are looking for the best project for you). 
  
    
- Qualified candidates are to submit their applications on our C4Media website.",https://remotive.com/remote-jobs/project-management/junior-project-coordinator-2088663,,"html, Figma, research, onboarding, data entry, infrastructure, travel"
-2088622,Content Reviewer,TELUS Digital,USA,"Looking for a freelance opportunity where you can make an impact on technology from the comfort of your home? If you are dynamic, tech-savvy, and always online to learn more, this part-time flexible project is the perfect fit for you! 
+ We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. 
    
- A Day in the Life of a Personalized Internet Assessor: 
+ P.S.  We work with developers from 71+ countries in different regions:  Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions. 
    
+ At the moment, we don’t have a legal basis to accept applicants from the following countries: 
+ 
+ European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia. 
+ Latin America: Cuba and Nicaragua 
+ Most Asian countries and Africa. 
+ 
    
- ●        In this role, you’ll be analyzing and providing feedback on texts, pages, images, and other types of information for top search engines, using an online tool 
+ We expand and shorten the list of exemptions regularly. 
    
- ●        Through reviewing and rating search results for relevance and quality, you’ll be helping to improve the overall user experience for millions of search engine users, including yourself. 
+ We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire.",https://remotive.com/remote-jobs/devops/senior-devops-engineer-2090002,,".Net, android, AWS, azure, C, C#, C++, data science, golang, ios, java, javascript, kubernetes, node.js, php, python, react, ruby/rails, shopify, sql, video, blockchain, AI/ML, automation, react native, rust, unity, spring, data analysis, laravel, solidity, flask, Typescript , terraform, angular , GCP, data engineering, Symfony, startup, marketplace, next.js"
+2090000,Operations software assistant,Bulldog Digital Media,"Europe, European timezones","Operations software assistant 
    
+ Bulldog is a UK agency helping marketing and SEO teams increase their visibility on Google and AI through link building and digital PR. We're a team of 12, with expertise in SEO, content, link building, and PR, based in the UK, Serbia, and North Macedonia. 
    
+ We are looking for a process-driven and intuitive person to work alongside our Operations Manager in overhauling our internal processes into a modern, streamlined way of working. We've already started implementing this as a proof of concept, with incredible results. We now need an extra pair of creative hands to move faster and help execute improvements. 
+   
+ The role 
+   
+ 
+ 
+ Help review processes and improvements in ways of working. 
+ 
+ 
+ Help build additional internal tools to improve delivery and efficiency. 
+ 
+ 
+ Use Claude AI to code, with clear operational thinking on what to build and why. 
+ 
+ 
+ Own tool maintenance, including fixes, improvements and updates. 
+ 
+ 
+ Monitor internal tools and portals to make sure they run smoothly. 
+ 
+ 
+ Keep the team updated on tool changes, updates and how things work. 
+ 
+ 
+ Work with the Operations Manager to find ways to save the company time on tasks. 
+ 
+ 
+ Take on a wide range of agency-improving tasks with the Operations Manager. 
+ 
+ 
+   
+ Skills & experience 
+   
+ 
+ 
+ Nice to have an understanding of link building, SEO and the AI ranking space. 
+ 
+ 
+ Intuitive thinking on how to improve processes so they can scale. 
+ 
+ 
+ Strong English and clear communication on project progress. 
+ 
+ 
+ Comfortable using Claude AI to code and create tools. 
+ 
+ 
+ Enjoys improving processes and is confident in independently owning projects. 
+ 
+ 
+   
+ Working for Bulldog 
+   
+ 
+ 
+ A friendly, passionate team that takes quality seriously. 
+ 
+ 
+ Join a talented team who work closely together every day. 
+ 
+ 
+ A flexible and remote-first work culture, enjoy your birthday off, fully paid. 
+ 
+ 
+ You'll be hired as a freelancer on 35 hours per week to start, with room to grow. You'll have a contract in place with notice periods, so you have security with us from the start.",https://remotive.com/remote-jobs/operations/operations-software-assistant-2090000,"$12k - $19k (35 hrs/week, freelance)","security, seo, AI/ML"
+2089995,Head of Engineering,Lemon.io,"USA timezones, European timezones","About Lemon.io Lemon.io is a profitable, growing talent marketplace that connects vetted senior engineers with companies that need them. We’ve been in business for 10 years, have 60 people across Ukraine, Europe, Canada, and the US, and process over $16M in annual GMV. We compress the traditional 2–5 week hiring timeline down to 24–48 hours through a curated, pre-vetted supply of developers. Hiring is still broken. Recruiters spend weeks building candidate pipelines on traditional platforms, burning energy on unqualified leads. We’re building the product that changes that. Giving recruiters qualified, vetted candidates within 24 hours without the grind. This is a pivotal moment: we’re transitioning from a services-driven marketplace to a technology-driven platform. We need an engineering leader who can drive that transformation. The Role You will own engineering at Lemon.io. You’ll lead a growing team of engineers, make critical architecture and prioritization decisions, and be directly accountable for the speed and quality of what we ship. This is not a management-layer role. You’ll be hands-on, deeply involved in product decisions, and working side by side with the founder. What You’ll Do: Own the technical roadmap and make sure every engineering effort maps directly to business impact. No features for features’ sake. Lead and grow an engineering team that ships fast, iterates constantly, and treats complexity as a cost. Tackle the hard, multi-layered problem: automated vetting, intelligent matching at scale, demand-side bottlenecks. And figure out where the real leverage is. Make hard prioritization calls. Decide what we build, what we skip, and what we kill. Work directly with the founder and product team to define what success looks like before writing a single line of code. Build the engineering culture: high ownership, high speed, low bureaucracy. Who You Are: Product-minded, business-first Obsessed with simplicity First principles thinker Fast. Bias toward action Experience: You’ve led engineering teams (5–30+ people) at a startup or high-growth company. You have hands-on experience with modern stacks and are comfortable with AI/ML tooling. You’ve worked in a distributed, async-first team. Why Lemon.io: Profitable and growing. No fundraising pressure, real business fundamentals. A pivotal moment: you’re not maintaining an engine, you’re building one. The product roadmap is wide open. Direct access to the founder. No layers. Your decisions ship. A massive, unsolved problem: hiring is still broken. We’re building the product that makes it radically faster for companies to find qualified engineers. A team of 60 people who move fast, care deeply, and have survived the hard years together. For this position, we accept applicants from the following countries: Albania, Andorra, Austria, Belgium, Bulgaria, Bosnia and Herzegovina, Vatican City, Greece, Denmark, Estonia, Iceland, Spain, Italy, Cyprus, Latvia, Lithuania, Liechtenstein, Luxembourg, Malta, Moldova, Monaco, Netherlands, Germany, Norway, North Macedonia, Poland, Portugal, Romania, San Marino, Slovakia, Slovenia, Ukraine, Finland, France, Croatia, Montenegro, Czech Republic, Switzerland, Sweden, Argentina, Belize, Bolivia, Brazil, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Jamaica, Mexico, Panama, Paraguay, Peru, Puerto Rico",https://remotive.com/remote-jobs/software-development/head-of-engineering-2089995,,"AI/ML, startup, marketplace, fundraising"
+2089994,Mid/Senior AI Video Artist,EverAI,Worldwide,"Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At  EverAI , we’re shaping what it means to connect with AI. With  50 million users and counting , we're not just building products — we're creating entirely new categories. Our flagship product is the  world’s largest AI companionship platform , redefining relationships for millions. It is governed by our proprietary moderation system, EverGuard — an internal AI designed to ensure everything we build is  safe, ethical, and human-first . And we’re only just getting started! Our Team We are an enthusiastic, passionate and hardworking team of ≈ 75 people. Our founding team has strong entrepreneurial experience building and scaling web products from 0 to IPO. Alexis Soulopoulos  [CEO] • 10+ years in Tech Executive Leadership • Co-Founder Mad Paws Holdings (from 0 to IPO) • Forbes 30 under 30 + Deloitte TechFast50 ’22 & ‘23 Michael Monin  [Co-founder & CTO] • 10+ years as CTO / COO (web2/web3), 1+ year in AI/LLM • Serial-entrepreneur: MTK Digital (exited / 0->$20m revenue) and Zipchat (AI Chatbot for E-commerce brands) Thomas Lacroix  [Co-founder & CMO] • 8+ years in Customer Acquisition & E-commerce Growth • Serial-entrepreneur: Curatible (sold to Blackstone) and MTK Digital (exited / 0->$20m revenue) Maruša Fasano  [CFO/Legal] • 25+ years in Finance, Strategy, M&A • Ex-CFO/M&A @Curatible (exited to Blackstone) • Ex-President of the Board @SotremoSA (exited) • Co-founder/CFO @SoftOne (exited) Your Role We are looking for a Mid/Senior AI Video Artist who is comfortable editing engaging videos in a fast-paced environment and thrives when managing their production pipeline independently: from idea inception to audio, graphics and colour grading. Reporting directly to our CMO Thomas, this is what you'll be doing: Key Responsibilities Create  high-performing video ads  tailored for various digital platforms (Socials, Adult sites) with a strong focus on user acquisition and engagement Lead the  editing and post-production process for marketing videos , ensuring they are visually engaging, emotionally compelling, and conversion-optimized Collaborate closely with the marketing and creative teams to develop concepts and storyboards that align with performance data and campaign objectives Leverage AI tools  like Midjourney, Stable Diffusion, Runway, and other generative video technologies to enhance creative output and accelerate production timelines. Maintain a high standard of visual storytelling while adapting to rapid feedback and performance-based iterations Optimize video content  for various formats, ratios, and channel-specific best practices Stay on top of trends in short-form advertising and the adult/adult-adjacent space to bring fresh, innovative ideas to the table Ensure all content complies with platform policies and brand guidelines while pushing creative boundaries Your Qualifications Hard Skills 4+ years of experience in video editing, with a strong portfolio of ads created for paid marketing campaigns Deep understanding of storytelling, pacing, motion design, and sound design in performance-driven creative Proven experience using generative AI tools like Midjourney, Stable Diffusion, Runway, etc., in your editing workflow Proficiency with editing software such as Adobe Premiere Pro, After Effects, or Final Cut Pro Strong grasp of trends in NSFW/Adult content advertising, particularly pre-roll ads, TikTok-style edits, and fast-paced performance creative Familiarity with advertising KPIs such as CTR, CR, CPM, and ROAS, and ability to optimize creative based on performance data Soft Skills 🗣 Strong communication & collaborative skills (perfectly fluent in English) 🎯 Goal-oriented, ownership and commitment ⚡️ Doer mindset - we are moving fast and need people who can balance execution, planning, and strategy ⏱️ Obsessive about speed, performance and iteration 🧢 Humble - willing to learn, open to feedback 🍭 #NSFW - Comfortable building products based on uncensored models and content Bonus point Prior experience in the adult, dating, or igaming industries Why EverAI? 📈  Exponential Growth : From 50M users in 2 years, to 100M next — and 500M beyond 🚀  Track Record of Category-Creating Innovation : We consistently launch  world-first AI applications  — setting the pace, not following it 🌍  Global Impact : Top-tier user growth, real-world adoption, and cultural relevance 🧠  Proven Leadership : A senior team that’s  launched, scaled, and exited & IPO’d multiple scale ups  — now fully focused on reshaping AI companionship 👥  Elite Remote Team : 100% remote and built to win — world-class talent from  Tier 1 tech companies , with a culture of ownership, velocity, and radical creativity 🛡️  Ethical Core : Our AI ecosystem is governed by  EverGuard, our proprietary AI moderation technology , ensuring responsible development at scale What We Offer ✍️  Contract Type:  We prefer B2B, but we’re flexible, what matters is long-term commitment and impact 📍  Work From Anywhere:  Fully remote. Choose the environment where you do your best work 🏝️  Paid Time Off:  4 weeks (20 working days) of PTO per year to recharge and reset 👨‍👩‍👧‍👦  Annual Gathering:  A yearly in-person meetup to connect, brainstorm, and celebrate wins together ❤️‍🩹  Health & Wellness Support:  Monthly allowance of   100 USD for health insurance expenses + unlimited 1:1 sessions with psychologists and lifestyle experts through  OpenUp  (also available for up to three family members) 🏢  Co-Working Space Budget:  Work from a co-working space up to twice per month (35 EUR / 40 USD per visit) to stay inspired and connected 📚  Learning Budget:  Dedicated funds to support your professional growth: courses, books, conferences, events, or certifications 💻  Equipment:  Company laptop provided + monitor budget up to 250 USD for your workspace setup ⚡  AI Tools Access:  Premium access to ChatGPT, Cursor, Hugging Face, Claude Code, and any other tool needed to excel at your job, power your ideas and workflows 🎯 Top Tier Talent Is Our Multiplier We’re a fully remote group of  A-players from Tier 1 tech , led by an exec team who’ve  launched, scaled, and exited multiple companies . We move fast, and care deeply about what we build — and who we build it with. We’re looking for  exceptional talent  ready to ship & distribute world-first AI products at scale, fast, and co-create with us this category-defining business. If that’s you — reach out and apply! 💡 External Referral Program Know someone who could be a great fit for this role?  You can refer them through the  EverAI External Referral Program  and earn a bonus of  up to 2,500 USD  if they’re hired.  Submit a referral here.",https://remotive.com/remote-jobs/marketing/mid-senior-ai-video-artist-2089994,-,"excel, video, AI/ML, customer acquisition, advertising, paid marketing, video ads, after effects, editing, video editing, user acquisition, motion design, insurance"
+2089990,Content Reviewer - US,TELUS Digital,USA,"Looking for a freelance opportunity where you can make an impact on technology from the comfort of your home? If you are dynamic, tech-savvy, and always online to learn more, this part-time flexible project is the perfect fit for you!  
+   
+ A Day in the Life of a  Content Reviewer - US : 
+ 
+ In this role, you’ll be analyzing and providing feedback on texts, pages, images, and other types of information for top search engines, using an online tool 
+ Through reviewing and rating search results for relevance and quality, you’ll be helping to improve the overall user experience for millions of search engine users, including yourself. 
+ 
    
  Join our team today and start putting your skills to work for one of the world's leading search engines. 
    
-   
- The estimated hourly earnings for this role are 14 USD per hour. 
+ The estimated hourly earnings for this role are 14 USD  per hour.  
    
  Please note only one member per household can work on this program. If at a later stage it is identified that more than one person in your household is working on the TELUS Digital Rating Program, it will result in removal from the program. 
    
    
-   
  TELUS Digital AI Community 
-   
-   
  Our global AI Community is a vibrant network of 1 million+ contributors from diverse backgrounds who help our customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and make an impact supporting the machine learning models of some of the world’s largest brands. 
    
-   
-   
  Qualification path 
-   
- No previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement. 
-   
-   
+ No previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.  
    
  Basic Requirements 
-   
-   
- ●        Working as a freelancer with excellent communication skills in English 
-   
- ●        Being a resident in the United States for the last 3 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in the US. 
-   
- ●        Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content 
-   
- ●        Daily access to a broadband internet connection, a smartphone (Android 5.0, iOS 14 or higher), and a personal computer to work on. 
-   
-   
+ 
+ Working as a freelancer with excellent communication skills in English 
+ Bein g a resident in the United States for the last 3 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in the US. 
+ Active use of Gmail and other forms of social media and experience in the use of web browsers to navigate and interact with a variety of content 
+ Daily access to a broadband internet connection, a smartphone (Android 5.0, iOS 14 or higher), and a personal computer to work on. 
+ 
    
  Assessment 
-   
-   
- In order to be hired into the program, you’ll take a language assessment and an open book qualification exam that will determine your suitability for the position and complete ID verification. Don’t worry, our team will provide you with guidelines and learning materials before your exam. You will be required to complete the exam in a specific timeframe but at your convenience! 
-   
-   
+ In order to be hired into the program, you’ll take a language assessment and an  open book qualification exam that will determine your suitability for the position and complete ID verification. Don’t worry, our team will provide you with guidelines and learning materials before your exam. You will be required to complete the exam in a specific timeframe but at your convenience! 
    
  Equal Opportunity 
+ All qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS Digital AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants’ qualifications, merits, competence, and performance without regard to any characteristic related to diversity",https://remotive.com/remote-jobs/all-others/content-reviewer-us-2089990,$14/hour,"android, go, ios, social media, AI/ML, diversity"
+2089958,AI Engineer,Dry Ground AI,"Brazil, Colombia, Philippines","We are seeking a versatile and highly skilled AI Engineer to join our fast-growing Full-Stack AI Solutions company. This role blends the expertise of building cutting-edge AI/ML models with the practical know-how of automation and agentic system integrations. You will design, develop, deploy, and optimize intelligent solutions that leverage the power of generative AI, automation platforms, and agent-based systems to enhance client operations, streamline workflows, and deliver measurable results. 
+ This is a unique opportunity to work across a diverse range of technologies—from fine-tuning transformer models to building real-world AI-powered automation stacks. If you’re passionate about pushing the boundaries of AI while creating real value through systems thinking and practical implementation, this role is for you. 
    
+ Key Responsibilities 
+ AI/ML Development: 
    
+ 
+ Design, build, and deploy machine learning and generative AI models for custom use cases.
    
- All qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS Digital AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants’ qualifications, merits, competence, and performance without regard to any characteristic related to diversity",https://remotive.com/remote-jobs/all-others/content-reviewer-2088622,14$/hour,"android, go, ios, social media, AI/ML, diversity"
-2070150,Senior DevOps Engineer,Marketerx,USA,"The Role: Architect of a Resilient Future 
- We are seeking a highly experienced and motivated Senior DevOps/Security Engineer to join our founding engineering team. This isn't just another DevOps role. You will be the architect of the resilient, scalable, and secure foundation upon which our entire autonomous marketing platform is built. As the first dedicated DevOps/Security hire, you will have a unique opportunity to shape our infrastructure from the ground up, ensuring our platform can deliver on its promise of making brilliant marketing effortless. 
+ 
+ Fine-tune and optimize large language models (e.g., GPT, BERT) using frameworks like Hugging Face Transformers.
    
- We're looking for a visionary builder who is passionate about creating robust systems that can handle enterprise-level scale while empowering our customers to compete and win. 
- Your Impact: 
+ 
+ Conduct ongoing research to stay ahead of advancements in AI/ML, including LLMs, generative AI, and transformer-based architectures.
+   
+ 
+ Develop data pipelines for preprocessing, feature engineering, and model training.
+   
+ 
+ Test, validate, and monitor model performance in real-world scenarios; iterate for reliability and accuracy.
+   
+ 
+ Collaborate with cross-functional teams to embed AI into products, platforms, and services.
+   
+ 
+ Mentor junior engineers and contribute to technical leadership.
+   
  
  
- Build the Bedrock:  Design and implement a world-class, scalable cloud infrastructure on AWS using Infrastructure as Code (IaC) principles (Terraform, CloudFormation). This is the foundation for amplifying the brilliance of thousands of businesses. 
+ Automation & Agentic Systems: 
+   
+ 
+ Design, implement, and maintain automation workflows using tools such as:
+   
+ 
+ LangChain, LangGraph, LangSmith, LangFuse n8n, ElevenLabs, and CMS integrations.
+   
+ 
+ Engineer system-to-system integrations using APIs to enable intelligent process automation.
+   
+ 
+ Apply prompt and context engineering techniques to enhance the performance of conversational AI tools.
+   
+ 
+ Implement prompt management and QA processes for agents and assistants.
+   
+ 
+ Explore and deploy Microsoft Copilot Studio, PowerApps, and PowerAutomate solutions (preferred but not required).
+   
+ 
+ Continuously evaluate emerging AI and automation tools and assess their applicability in client use cases.
+   
+ 
+ Collaborate with clients and internal teams to scope, deliver, and maintain agentic and automation solutions aligned with business goals.
+   
  
  
- Automate Everything:  Develop and manage sophisticated CI/CD pipelines to ensure our AI models and applications are deployed rapidly, reliably, and securely. 
+ Qualifications 
+   
+ Required 
+   
+ 
+ 2+ years of hands-on experience in AI/ML development, including training and deploying models in production.
+   
+ 
+ Strong programming skills in Python, with proficiency in frameworks such as TensorFlow, PyTorch, Scikit-learn, and Hugging Face Transformers.
+   
+ 
+ Experience working with AI tools like Langchain, OpenAI, or Stable Diffusion.
+   
+ 
+ Practical experience with automation platforms and AI agent builders (as listed above).
+   
+ 
+ Deep understanding of machine learning algorithms, neural networks, and NLP concepts.
+   
+ 
+ Proficiency in using REST APIs for tool and platform integrations.
+   
+ 
+ Familiarity with cloud-based AI/ML platforms.
+   
+ 
+ Strong analytical skills and the ability to translate business problems into technical AI/automation solutions.
+   
  
  
- Fortify the Platform:  Implement a comprehensive, proactive security program from the ground up. You will be the guardian of our customers' data and our platform's integrity, ensuring compliance with standards like SOC2 and GDPR. 
+ Preferred 
+   
+ 
+ Experience working with Agentic AI frameworks, voice automation, and prompt tuning systems.
+   
+ 
+ Exposure to MLOps best practices, including model versioning, CI/CD, and monitoring.
+   
+ 
+ Knowledge of reinforcement learning, GANs, or edge AI deployments.
+   
+ 
+ Familiarity with distributed computing frameworks such as Spark or Ray.
+   
+ 
+ Background in AI agency workflows and client-facing solution delivery.
+   
  
  
- Enable Hyper-Growth:  Engineer our systems for massive scalability and performance, ensuring we can seamlessly onboard thousands of new customers while maintaining a flawless user experience. 
+ Work Environment & Benefits 
+   
  
+ Competitive salary and performance-based incentives.
+   
  
- Drive Intelligence-Led Operations:  Establish robust monitoring, logging, and alerting systems that provide deep insights into system health and performance, allowing for proactive optimization and issue resolution. 
+ Flexible work environment: Remote-first.
+   
  
+ Collaborative, innovation-driven culture with a commitment to personal and professional growth.
+   
  
- Who You Are: 
- 
- 
- A seasoned DevOps or SRE professional with 5+ years of experience, bringing a security-first mindset to everything you do. 
- 
- 
- An expert in cloud platforms (preferably AWS), containerization (Docker, Kubernetes), and Infrastructure as Code (Terraform, Ansible). 
- 
- 
- A proactive builder who thrives in a fast-paced, high-growth startup environment. 
- 
- 
- You're not just looking for a job; you're looking to join a mission-driven team with a proven leader and build something that will redefine an industry. 
- 
- 
- You are inspired by the challenge of building a platform that levels the playing field for visionary entrepreneurs. 
- 
- 
- What We Offer: 
- 
- 
- Competitive Salary:  $130,000 - $150,000 annually. 
- 
- 
- Founding Team Equity:  A generous equity package, because you are a crucial part of our success story. 
- 
- 
- Comprehensive Benefits:  flexible work schedule, and unlimited PTO. 
- 
- 
- Unmatched Opportunity:  The chance to build the infrastructure for a category-defining company and work alongside a world-class team.",https://remotive.com/remote-jobs/devops/senior-devops-engineer-2070150,$130k - $150k,"AWS, cloud, docker, kubernetes, security, SRE, AI/ML, CI/CD, terraform, startup, ansible, infrastructure"
+ Opportunity to work at the forefront of AI innovation across industries and verticals.",https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958,$40- $60k,"api, cloud, fullstack, python, AI/ML, automation, research, CI/CD, TensorFlow, spark, NLP, CMS, Pytorch, REST"
 2088656,Customer Retention Manager,AutoHDR,USA,"Role:  Customer Success Representative 
  AutoHDR is the fastest growing AI startup in real estate media. We train custom image editing models for real estate, and are currently editing 25% of all US real estate listings! 
  Join our team and work with an exceptional team to build cutting edge products and continue growing 20% month over month! 
@@ -297,59 +402,6 @@ job_id,title,company,location,description,url,salary,skills_required
  Have experience in real estate media or real estate photography. 
  Have experience handling quality control, escalations, or technical support. 
  Have used AI tools to improve workflows or automate repetitive wor",https://remotive.com/remote-jobs/customer-service/customer-support-representative-2088655,,"saas, AI/ML, editing, technical support, onboarding, responsive"
-1919265,Senior Independent Software Developer,A.Team,"Americas, Europe, Israel","You must be located in the Americas, Europe, or Israel to apply. A·Team  is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing.  
- After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $85+ million since. 
- As part of A·Team, you can expect: 
- 
- High-paying, meaningful missions with the most audacious companies  sent your way; generally $90-$150+/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, Pepsi, Walmart, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/Insight/Tiger/etc. 
- Work alongside friends old & new:  our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can. 
- Full autonomy:  say ""no"" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too.  
- Small, curated, off-the-record gatherings:  for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about. 
- Keep 100% of what you earn:  if you charge $120/hr, you get $120/hr. A·Team makes money by charging a small, flat, transparent platform fee on  top  of your rate. 
- 
-   
-   
- How to apply: 
- Go here:  https://build.a.team/remotivereferral  + mention Remotive.  We respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit. 
- What you’ll do: 
- 
- 
- Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests. Find the right pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would 
- 
- 
- Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team.  
- 
- 
- You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction.  
- 
- 
- Who A · Team is for: 
- 
- 
- Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy. 
- 
- 
- Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders. 
- 
- 
- The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing 
- 
- 
- Who A · Team is  not  for: 
- 
- 
- People looking for small gigs 
- 
- 
- Folks looking to build simple wordpress/wix/squarespace-style websites 
- 
- 
- Those still early in their careers (<4 years) and recent university/bootcamp grads (at least not yet) 
- 
- 
- Our long-term vision: 
- A·Team  is a new type of company for a new kind of independent software builder. We call them ""unhirables"": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams.  
- To help us secure amazing missions, we raised $60 million+  from Insight Partenrs, Tiger Global, NFX, RocNation, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.",https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265,$90 - $150 /hour,"go, wordpress, chat, apple, testing, catalyst"
 1919266,Senior Independent AI Engineer / Architect,A.Team,"Americas, Europe, Israel","Location:  Americas, Europe, or Israel 
  The Opportunity 
  Join A.Team’s invite-only network of senior builders and access exclusive missions with Fortune 500s and top startups. This isn’t client work or employment—it’s a vetted collective where you’re matched to impactful projects. At A.Team, you won’t just implement someone else’s plan. You’ll be the technical decision-maker, owning everything from model design to enterprise integration. 
@@ -403,6 +455,145 @@ job_id,title,company,location,description,url,salary,skills_required
  Your peers have scaled apps to millions, built enterprise AI platforms, shipped AI at unicorns, and deployed infra handling billions/day. 
  How to Apply 
  Apply once at  build.a.team/apply-ai . Short, rigorous process—we care more about what you’ve built than lengthy forms.",https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266,$120 - $170 /hour,"go, UI/UX, wordpress, chat, apple, testing, catalyst"
+1919265,Senior Independent Software Developer,A.Team,"Americas, Europe, Israel","You must be located in the Americas, Europe, or Israel to apply. A·Team  is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing.  
+ After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $85+ million since. 
+ As part of A·Team, you can expect: 
+ 
+ High-paying, meaningful missions with the most audacious companies  sent your way; generally $90-$150+/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, Pepsi, Walmart, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/Insight/Tiger/etc. 
+ Work alongside friends old & new:  our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can. 
+ Full autonomy:  say ""no"" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too.  
+ Small, curated, off-the-record gatherings:  for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about. 
+ Keep 100% of what you earn:  if you charge $120/hr, you get $120/hr. A·Team makes money by charging a small, flat, transparent platform fee on  top  of your rate. 
+ 
+   
+   
+ How to apply: 
+ Go here:  https://build.a.team/remotivereferral  + mention Remotive.  We respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit. 
+ What you’ll do: 
+ 
+ 
+ Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests. Find the right pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would 
+ 
+ 
+ Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team.  
+ 
+ 
+ You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction.  
+ 
+ 
+ Who A · Team is for: 
+ 
+ 
+ Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy. 
+ 
+ 
+ Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders. 
+ 
+ 
+ The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing 
+ 
+ 
+ Who A · Team is  not  for: 
+ 
+ 
+ People looking for small gigs 
+ 
+ 
+ Folks looking to build simple wordpress/wix/squarespace-style websites 
+ 
+ 
+ Those still early in their careers (<4 years) and recent university/bootcamp grads (at least not yet) 
+ 
+ 
+ Our long-term vision: 
+ A·Team  is a new type of company for a new kind of independent software builder. We call them ""unhirables"": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams.  
+ To help us secure amazing missions, we raised $60 million+  from Insight Partenrs, Tiger Global, NFX, RocNation, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.",https://remotive.com/remote-jobs/software-development/senior-independent-software-developer-1919265,$90 - $150 /hour,"go, wordpress, chat, apple, testing, catalyst"
+2088711,Senior Full-stack React Developer,Lemon.io,"Americas, Europe, Asia, Oceania","Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. 
+   
+ What we offer: 
+ 
+ The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. 
+ No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. 
+ We'll manually find the best project for you according to your skills and preferences. 
+ Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. 
+ We respect your seniority so you can expect no micromanagement or screen trackers. 
+ Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? 
+ We will support you from the time you submit the application throughout all cooperation stages. 
+ Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. 
+ 
+ 
+ 
+ Through our community, we will connect you with the best developers from more than 71 countries. 
+ 
+ We have several open positions for Full-Stack React.js Developers - please see the details below. We also have some backend positions; the full list is included below as well. 
+   
+ Requirements for the Senior React & Python Position: 
+ 
+ 4+ years of software development experience 
+ 
+ Commercial experience: 
+ 
+ React.js 3+ years and Python 3+ years  OR  React.js 2+ years and Python 5+ years  OR  React.js 5+ years and Python 2+ years 
+ Experience with AWS, GCP, or Azure is required 
+ 
+   
+ Requirements for the Senior Python Position: 
+ 
+ 5+ years of software development experience 
+ 5+ years of commercial experience with Python 
+ 3+ years of commercial experience with Flask 
+ 
+   
+ Requirements for the Senior Golang & React Position: 
+ 
+ 4+ years of software development experience 
+ React.js 3+ years and Golang 3+ years  OR  React.js 2+ years and Golang 5+ years  OR  React.js 5+ years and Golang 2+ years 
+ 
+   
+ Requirements for the Senior Golang Position: 
+ 
+ 5+ years of software development experience 
+ 5+ years of commercial experience with Golang 
+ 
+   
+ Other requirements: 
+ 
+ Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. 
+ Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. 
+ Strong self-organizational skills — ability to work full-time remotely with no supervision. 
+ Reliability — we want to trust you and expect that you won’t let us and the client down. 
+ Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. 
+ 
+   
+ Sounds good for you? Apply now and join the  Lemon.io  community! 
+   
+ NOT YOUR TECH STACK? 
+ We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: React & Node, React & Ruby, PHP & Angular, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Angular & .NET, Angular & Node.js, Vue & .NET, Python & Vue, MLOps, React & Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, AI Engineering, Data Annotation, DevOps, Svelte & Python, Svelte & Node, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, Python & Node, Angular & TypeScript, Ruby & Ruby on Rails, React Native & Ruby, React Native & Python, PHP & Laravel, .NET & C#, Java & Spring, Unreal Engine & C++, Python & LLM, Unity, Machine Learning Engineering — we’d be happy to connect and match you with a suitable project. 
+   
+ If your experience matches our requirements, be ready for the next steps: 
+ 
+ VideoAsk — watch a short video about our startup, up to 10 minutes 
+ Complete your profile on our website 
+ Screening call 
+ Technical interview 
+ Feedback 
+ Magic Box (we are looking for the best project for you). 
+ 
+   
+ We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. 
+   
+ P.S.  We work with developers from 71+ countries in different regions:  Europe, LATAM, the U.S (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions. 
+   
+ At the moment, we don’t have a legal basis to accept applicants from the following countries: 
+ 
+ European: Hungary, Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia. 
+ Latin America: Cuba and Nicaragua 
+ Most Asian countries and Africa. 
+ 
+ We expand and shorten the list of exemptions regularly. 
+ 
+   
+ Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register  here .",https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711,,".Net, android, AWS, azure, backend, C, C#, C++, data science, fullstack, golang, ios, java, javascript, node.js, php, python, react, react js, ruby/rails, shopify, video, blockchain, AI/ML, react native, rust, unity, spring, data analysis, laravel, solidity, flask, Typescript , angular , GCP, data engineering, Symfony, startup, marketplace, next.js"
 2069746,Tech Lead Full-Stack Rails Engineer,Mitre Media,"USA, Canada, USA timezones","About Mitre Media 
  Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. Join our lean, entrepreneurial team to shape the future of AI-powered investing from your location ±3 hours from Eastern Time. 
  Our users are deeply engaged, spending over 5 minutes per visit with a bounce rate below 10%, researching investments across hundreds of different categories. With 40 million brokerage accounts in the U.S., we take pride in building tools that make a real impact, fostering a culture of trust, innovation, and dynamism. If you’re passionate about financial technology and AI, we’d love to connect! 
@@ -535,304 +726,7 @@ job_id,title,company,location,description,url,salary,skills_required
  How to Apply 
    
  Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.",https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746,$170k - $200k,"api, CSS, docker, elasticsearch, fullstack, html, javascript, kubernetes, postgresql, react, ror, ruby/rails, AI/ML, CAD, advertising, Redis, ES6, web applications, MySQL, NLP, fintech, Micro services, github, system architecture"
-2069747,Tech Lead Databricks Data Engineer,Mitre Media,"USA, Canada, USA timezones","About Mitre Media 
- Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over a decade, we’ve served individual investors, financial advisors, and top asset managers like BlackRock and Vanguard through our premium data, tools, and advertising solutions. If you’re excited by the intersection of big data, AI, and investing, join our lean, entrepreneurial team from anywhere within ±3 hours of Eastern Time. 
- About the Role 
- As Tech Lead Data Engineer, you’ll architect and maintain the data backbone powering every feature across our product suite. Reporting to the CTO, you will design Databricks-based ETL pipelines, model complex investment data, and surface low-latency, high-quality datasets for both user-facing features and internal AI/analytics workloads. You’ll collaborate in a remote-first hybrid culture that values in-person “bursts” of collaboration, follow ShapeUp for project planning, and ship pragmatic solutions that favor de-scoping over delays. 
- Responsibilities 
- 
- 
- Design, implement, and optimize large-scale ETL workflows in Databricks (Apache Spark, Delta Lake, DBT). 
- 
- 
- Develop algorithms that transform raw market data into actionable insights. 
- 
- 
- Own data quality and lineage, instituting tests, monitoring, and alerting for mission-critical pipelines. 
- 
- 
- Evolve our cloud data platform (AWS & GCP) for scale, performance, and cost efficiency. 
- 
- 
- Mentor engineers, championing best practices in code reviews, documentation, and DevOps for data. 
- 
- 
- Required Technical Skills 
- Data Engineering 
- 
- 
- Programming : Expert in Python plus working knowledge of Scala or Java. 
- 
- 
- Databricks & Spark : Hands-on with cluster tuning, job orchestration, and Delta Tables. 
- 
- 
- SQL & DBT : Strong analytical SQL, modular data-model design, and CI/CD for transformations. 
- 
- 
- Cloud : Production experience on AWS or GCP data services (e.g., S3/GCS, EMR/Dataproc, Glue/Dataflow). 
- 
- 
- ETL & Orchestration : Solid grasp of EL(T) patterns, workflow scheduling, and incremental processing. 
- 
- 
- Data Modeling : Dimensional and schema-on-read designs for analytics and AI. 
- 
- 
- AI & Analytics Enablement 
- 
- 
- Building feature stores or inference-ready tables for ML/LLM workflows. 
- 
- 
- Familiarity with vector databases or embedding pipelines 
- 
- 
- Nice-to-Have Technical Skills 
- 
- 
- Apache Airflow, Luigi, or Dagster for DAG orchestration. 
- 
- 
- Experience with Looker, Tableau, or Stripe’s Vizier-style visualization stacks. 
- 
- 
- Financial-markets domain knowledge (equities, ETFs, mutual funds). 
- 
- 
- Machine-learning engineering or statistical-analysis background. 
- 
- 
- Required Soft Skills 
- 
- 
- Entrepreneurial mindset with a passion for AI and FinTech innovation. 
- 
- 
- Self-starter who diagnoses problems, proposes trade-offs, and delivers. 
- 
- 
- Clear communicator who thrives in distributed, cross-functional teams. 
- 
- 
- Mentorship attitude—uplifts peers through code reviews and knowledge-sharing. 
- 
- 
- Detail-oriented and disciplined about data accuracy and documentation. 
- 
- 
- Why Join Us? 
- 
- 
- Impactful Work  – Your pipelines feed every insight we deliver to millions of investors. 
- 
- 
- Cutting-Edge Tech  – Databricks, Delta Lake, LLMs, Hotwire, and xAI’s API, all in a modern microservices stack. 
- 
- 
- Autonomy & Influence  – Work directly with the CEO & CTO to shape our data and AI strategy. 
- 
- 
- Competitive Compensation  – $150k – $185k CAD/USD plus benefits and performance bonuses. 
- 
- 
- Remote Flexibility  – Remote-first within ±3 hrs ET; optional collaboration hubs in Toronto and NYC. 
- 
- 
- Growth Opportunities  – Budget for conferences (e.g., Data+AI Summit, NeurIPS) and continuous learning. 
- 
- 
- About Mitre Media’s AI-Driven Platform 
- Mitre Media powers premium financial brands like  Dividend.com  and  MutualFunds.com  with the Mitre Platform. This platform integrates traditional content management, financial data, first-party data, ad revenue, and subscription tools, all enhanced by LLMs for rich, user-focused experiences. Our data-derived insights delight users, while our advertising solutions deliver unmatched performance for partners like BlackRock and Vanguard, leveraging advanced targeting and first-party data. 
- How to Apply 
-   
- Submit your resume, GitHub profile, and a brief note on why you’re excited about building AI-driven FinTech to jobs@mitremedia.com.",https://remotive.com/remote-jobs/software-development/tech-lead-databricks-data-engineer-2069747,$160k - $180k,"apache, api, AWS, big data, cloud, java, python, scala, sql, AI/ML, documentation, CAD, CI/CD, analytics, advertising, spark, tableau, GCP, ETL, data engineering, SOLID, fintech, Micro services, backbone, github"
-2088652,Full-Stack Developer,ELECTE S.R.L.,Worldwide,"We are looking for a strong Full-Stack Developer to execute product features and contribute to our core platform development. Your focus will be clean, scalable implementation and high-quality execution. This role is ideal for a developer who enjoys building real product features end-to-end in a focused, no-bureaucracy environment. 
-   
- Responsibilities 
- 
- Implement frontend features using TypeScript 
- Develop backend services and APIs using Supabase / PostgreSQL 
- Contribute to our Python-based AI & analytics engine (data logic, integrations) 
- Write and optimize SQL queries and database logic 
- Collaborate on feature specifications and translate them into clean technical execution 
- Participate in code reviews and continuous improvement 
- Work within modern serverless infrastructure (Vercel / Supabase) 
- 
-   
- Tech Stack 
- 
- Core Language:  TypeScript 
- Backend & Database:  Supabase (PostgreSQL), PL/pgSQL 
- AI Layer:  Python 
- Frontend & CMS:  TypeScript, Webflow, Weglot API 
- Infrastructure:  Vercel / Netlify 
- CI/CD:  GitHub Actions 
- 
-   
- Requirements 
- Must-have: 
- 
- Experience as a Full-Stack Developer (3+ years) 
- Strong knowledge of TypeScript / JavaScript 
- Solid experience with Python in backend, data, or analytics contexts 
- Good understanding of PostgreSQL and data modeling 
- Experience building and consuming APIs 
- Ability to work independently and deliver clean production-ready code 
- 
-   
- Nice-to-have: 
- 
- Experience with analytics or AI-adjacent systems 
- Hands-on experience with Supabase 
- Knowledge of PL/pgSQL 
- Experience using Webflow 
- 
-   
- What we offer 
-   
- 
- €2,500–3,500/month (contractor) 
- Full-time 
- Remote-friendly 
- Clear technical leadership and structured roadmap 
- Small team, fast decision-making, no bureaucracy",https://remotive.com/remote-jobs/software-development/full-stack-developer-2088652,"$33,6k–$50,4k","api, backend, frontend, fullstack, javascript, postgresql, python, sql, AI/ML, CI/CD, analytics, Typescript , SOLID, serverless, infrastructure, github, CMS"
-2088653,Sr. Firmware Engineer,Sanctuary Computer,Worldwide,"We are recruiting a Sr. Firmware Engineer to contribute to our IoT teams Original job posting link 🌎 About  garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes  Google ,  Stripe ,  Figma ,  Hinge ,  Black Socialists in America ,  ACLU ,  Pratt ,  Parsons ,  Mozilla ,  The Nobel Prize ,  MIT ,  Gnosis ,  Etsy  &  Gagosian . We’re the software team behind innovative products like  The Light Phone  &  Mill , and we operate a global, decentralized community space collective called  Index Space . We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. 🔮  Who We're Looking For We're looking for a Senior Firmware Engineer who owns their work completely - someone who can walk into a hardware bring-up, assess the state of the firmware, and immediately know what needs to be done and in what order. You don't need a spec to get started and you don't need a manager to tell you when something's off. You've shipped real products. You know the difference between firmware that works in the lab and firmware that survives in the field — and you build for the latter from day one. You're comfortable making architectural decisions under ambiguity, and you document those decisions so the team can follow. In this role, you'll work across a range of embedded initiatives, from connectivity and OTA infrastructure to display integration and sensor pipelines, finding pragmatic, cost-effective solutions to hard real-time problems. You'll collaborate directly with hardware engineers, product teams, and clients, and you'll be expected to hold your own in all three rooms. Responsibilities will include: Owning firmware architecture decisions across one or more active product platforms Bringing up new hardware revisions and integrating peripheral drivers with minimal ramp time Monitoring deployed firmware in the field, triaging issues, and shipping fixes with urgency and discipline Designing and implementing wireless connectivity flows - pairing, OTA, reconnect logic, fleet health Reprocessing and validating firmware behavior across hardware variants and edge cases Integrating new sensors, actuators, and communication modules into existing firmware architectures Participating in code reviews and holding a high bar - style, correctness, and long-term maintainability Keeping close track of project scope, timeline, and technical risk - and surfacing problems before they become crises Communicating directly with clients to align deliverables with constraints when scope and reality diverge 🧗  Who you are The person we’re looking for is happy, relaxed and easy to get along with. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart”, by carefully managing their workflow and staggering features that have dependencies intelligently — they prefer deep work but are OK coming up to the surface now and then for top level / strategic conversations. We believe people with backgrounds or interests in design, art, music, food or fashion tend to have a well rounded sense of design & quality — so a variety of hobbies or side projects is a big nice to have! 🔑  Must Have Competencies: Writes production C/C++ at the register level — owns memory layout, interrupt handling, and real-time constraints without supervision Has shipped embedded firmware through DVT into mass production on at least one product with real end users Brings up new hardware independently: bootloader, BSP, device tree, peripheral drivers — no hardware team babysitting required Deep RTOS fluency (FreeRTOS preferred) — has designed and debugged scheduling, priority inversion, watchdog logic, and power state machines under real constraints Owns the full debug cycle: reads schematics, probes with lab instruments, isolates timing and concurrency bugs, writes the postmortem Fluent in low-level bus protocols (I2C, SPI, UART, GPIO) at the register level - not just framework calls Self-managing: sets accurate estimates, flags risk early, delivers without being chased, and owns scope from kickoff to close Client-facing: has communicated technical tradeoffs directly to non-engineers, in writing, in real time, and been the person the client calls 💪  Nice to Have Competencies: ESP32 at the IDF level. Not Arduino wrappers. Wireless stack ownership: pairing flows, reconnect logic, OTA update pipelines, fleet-scale failure recovery Linux embedded depth - Yocto/Buildroot, device tree authorship, kernel module development, systemd service design Display pipeline integration (HDMI/DSI/LVDS) and shipped UI on constrained hardware using Qt, LVGL, or similar Cloud connectivity experience - MQTT under load, AWS IoT or similar, has debugged a deployed device fleet Product management instincts: can translate a vague client need into a scoped technical deliverable Experience in a startup or agency environment where specs are loose and timelines are tight USA based preferred for collaboration, but not a strict requirement 💸  Compensation The pay scale in on a contract basis, ranging  $150-200k/year  based on experience. 🎤  How we interview: Our interview process starts with a call where you get to meet a few members of our team. From there we’ll ask appropriate candidates to take part in a technical exercise which helps illustrate skill level and comfort. Important Reminders Kindly submit a complete and thoughtful application , including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process. Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.",https://remotive.com/remote-jobs/software-development/sr-firmware-engineer-2088653,$150k - $200k,"AWS, C, C++, cloud, UI/UX, open source, product management, hardware, IoT, startup, kernel, Linux/Unix, infrastructure, service design"
-2087694,Audio AI Trainer,Anuttacon,Worldwide,"🎮Our Culture: 
- Our culture thrives on creativity, communication, and collaboration. Around here, the work is all part of the game! You’ll have fun, make great connections, and get to directly experience the impact of what your training produces. 
-   
- 
-   
- 🚀About Us: 
- Anuttacon’s mission is to create immersive and personalized virtual worlds where players can form unique connections and deeper experiences in digital spaces. We are dedicated to leveraging different perspectives, voices, and backgrounds to promote a thoughtful and humanistic approach to technology. Through research-driven and explorative AI, we aim to create real-time interactions that seamlessly blend text, audio, visuals, and beyond. 
-   
- 🤖About the Role: 
- We’re looking for individuals with diverse expertise to join our data team as AI Trainers. In this role, you will be directly involved in improving the accuracy and performance of our multimodal models. 
-   
- 🖥️Responsibilities: 
- 
- Annotate text transcripts based on audio content to support various aspects of game design, such as dialogues, quests, character interactions, and scenes 
- Ensure accuracy and consistency in the data across various dimensions to optimize players’ gaming experience 
- Recognize nuanced expressions of a wide array of emotional tones and inflections 
- Annotate and tag model responses against our evaluation rubrics in an effort to improve dialogue and overall interactions to achieve the best user experience possible 
- Collaborate with our leads to develop state-of-the-art automatic speech recognition models and so much more 
- 
- 🙂About You: 
- 
- Native or highly fluent in conversational English, able to accurately transcribe a broad range of accents, utilizing slang/colloquialisms 
- Have a passion for gaming, especially those experienced in narrative games 
- Comfortable working in a fun and fast-paced gaming-centric culture with a hands-on approach 
- Strong attention to detail and a commitment to producing high-quality work in a flexible, dynamic environment 
- Ability to move quickly and think on your feet in an ever-changing environment where you’ll have to rely on your intuition and best judgment to guide you 
- Good communication skills; able to give and receive feedback positively and professionally 
- Ability to follow complex guidelines and apply them consistently with a high degree of confidence and accuracy 
- Ability to work both independently and as part of a team, with a focus on achieving aligned consensus without sacrificing standards 
- 
-   
- 🧠Nice to Haves: 
- 
- Degree and/or experience in the following fields are a plus: 
- Media, film, video, audio, or narrative design/engineering 
- Creative writing, copywriting, communications, English, editing 
- Performing arts, voice work, or expressive presentation 
- Psychology, philosophy, or other fields focused on human behavior and thought 
- Previous experience working with AI/ML concepts or working with data analysis, data manipulation, and data reporting 
- 
-   
- 💰 Compensation & other expectations: 
- 
- US Hourly rate: $25 (depending on your role and qualifications).  Compensation varies based on location and experience. International rates will differ. 
- Able to dedicate a minimum of 20 flexible hours per week 
- Opportunity to work 40+ hours based on your availability 
- There will be exciting bonus opportunities and room for rapid growth! 
- 
-   
- 🛡️ Content & Safety Awareness:   
- 
- Creating a safer digital world involves teaching AI to recognize and avoid harmful content. Projects require reviewing  sensitive or challenging material . A commitment to navigating these topics with professional objectivity is required for this role to help us build stronger ethical guardrails for AI.",https://remotive.com/remote-jobs/ai-ml/audio-ai-trainer-2087694,$25/hour,"video, AI/ML, research, game design, data analysis, STEM, R, narrative design"
-1680495,Office Assistant,Coalition Technologies ,Worldwide,"WHY YOU SHOULD APPLY: 
-   
- Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers: 
- 
- The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month! 
- A highly competitive Paid Time Off plan, promoting quality work-life balance. 
- Subsidized gym memberships to help team members feel their best. 
- Medical, dental, vision, and life insurance packages for all US-based team members. 
- International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition. 
- Device upgrade and learning reimbursement programs. 
- Motivating career development plans with clearly defined goals and rewards. 
- Additional job-specific incentives and bonuses. 
- 
- Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from! 
-   
- YOU SHOULD HAVE: 
-   
- 
- Willingness to learn, grow, and collaborate with the team and company as a whole. Excellent verbal and written communication skills. A high level of discretion, ethics, and trustworthiness. Intermediate spreadsheet skills (preferred) Innovative thinking and a willingness to challenge existing methods where improvement is possible. Experience in bookkeeping / financial record keeping (preferred). Experience with Google Sheets or Excel, Quickbooks Online, and G-Suite (preferred). The availability to work 40 hours per week from 9:00 am to 6:00 pm PST. A reliable space to work remotely with a fast computer, quality internet, camera, microphone, and speakers. 
- 
-   
- YOUR DUTIES AND TASKS: 
-   
- 
- Answering phones and emails. Completing entry-level bookkeeping, including recording expenses, organizing receipts, and completing other transaction records. Resolving billing issues with clients and internal team members. Providing account access, usage reports, data analysis, and other ad hoc requests for team members. Supporting quality assurance checks of various internal and client facing reporting. Organizing new client contracts, create invoices, and process client payments. Contributing to internal database maintenance, upkeep and data entry. Researching, ordering, & distributing company-wide gifts (2-3 times per year). Organizing company events, competitions, and special projects throughout the year. Facilitating company holiday, time off, and schedule variation calendars. 
- 
-   
- We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met. 
-   
- *California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $25 per hour. 
- Compensation may vary based on factors such as experience, qualifications, skills test performance, geographic location, and seniority of the position offered. Outside of California, New York, Washington, and Colorado compensation may fall outside the above ranges.",https://remotive.com/remote-jobs/marketing/office-assistant-1680495,"$31,2k- $52k","CSS, excel, frontend, git, html, illustrator, magento, photoshop, php, shopify, wordpress, MySQL, startup, responsive, themes, bootstrap, insurance, jQuery, Ajax"
-1956455,iOS Developer,nooro,USA,"WHO ARE WE? 
-   
- At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology. 
-   
- Check our website here: https://nooro-us.com/ 
-   
- We're a fast-moving startup that works on quick iteration and bold decisions. Our team is lean, agile, and empowered to make meaningful impacts daily. If you enjoy a dynamic environment where ideas become a reality at lightning speed and you're not afraid to wear multiple hats, you'll fit right in. 
-   
- WHAT WILL YOU DO? 
-   
- - Own and drive the development of our iOS application 
- - Build elegant, performant features using **Swift (We’re 100% Swift!)** and **SwiftUI** 
- - Implement complex UI/UX designs from **Figma** with pixel-perfect accuracy 
- - Ensure app performance, quality, and responsiveness 
- - Collaborate with our backend team on API integration 
- - Write clean, modular, and reusable code 
- - Participate in code reviews and architectural decisions 
- - Help shape our mobile development practices 
-   
- HOW TO APPLY?  
-   
- If you believe we're the right fit, please fill in this form:  https://forms.gle/xeL6pPbdjMHo11A28 
-   
- WHAT ARE THE REQUIREMENTS? 
-   
- - 5+ years of professional iOS development experience 
- - Strong expertise in Swift and SwiftUI 
- - Deep understanding of iOS platform capabilities and limitations 
- - Experience with iOS app architecture (MVVM preferred) 
- - Experience with Core Data and local storage solutions 
- - Proficiency in making RESTful API calls and handling responses 
- - Experience with dependency injection on iOS 
- - Strong version control skills with Git/GitHub 
- - Experience with App Store deployment and TestFlight 
- - Knowledge of iOS security best practices 
-   
- APPLYING PROCESS 
-   
- STEP 1 | QUESTIONNAIRE:  If you believe we're the right fit, please fill in this form:  https://forms.gle/xeL6pPbdjMHo11A28 
-   
- STEP 2 | TEST: Once we review your form submission, we will send you a test 
-   
- STEP 3 | TECHNICAL INTERVIEW: Once we review your test submission, you will have a call with our development leader 
-   
- STEP 4 | BEHAVIORAL INTERVIEW: After the technical interview, you will have a call with our CEO to talk about the way our company and team members operate in general 
-   
- WHAT DO WE OFFER? 
-   
- - 100% remote work environment 
- - Competitive compensation 
- - Opportunity to make a meaningful impact in healthcare technology 
- - Collaborative, innovative team culture",https://remotive.com/remote-jobs/software-development/ios-developer-1956455,$60k-$130k (depending on experience),"api, backend, git, ios, security, swift, UI/UX, Figma, agile, healthcare, startup, core data, github, REST, MVVM, mobile development"
+2088710,Online Data Analyst United States,TELUS Digital,USA,"Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. A Day in the Life of an Online Data Analyst: In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwide Completing research and evaluation tasks in a web-based environment such as verifying and comparing data, and determining the relevance and accuracy of information. Join us today and be part of a dynamic and innovative team that is making a difference in the world! TELUS Digital AI Community Our global AI Community is a vibrant network of 1 million+ contributors from diverse backgrounds who help our customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and make an impact supporting the machine learning models of some of the world’s largest brands.  Qualification path No previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.  Basic Requirements Full Professional Proficiency in English language Being a resident in  United States f or the last 2 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in United States Ability to follow guidelines and conduct online research using search engines, online maps, and website information Flexibility to work across a diverse set of task types, including maps, news, audio tasks, and relevance Daily access to a broadband internet connection, computer, and relevant software Assessment In order to be hired into the program, you’ll take an open book qualification exam that will determine your suitability for the position and complete ID verification. Our team will provide you with guidelines and learning materials before your qualification exam. You will be required to complete the exam in a specific timeframe but at your convenience. Equal Opportunity All qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS Digital AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants’ qualifications, merits, competence, and performance without regard to any characteristic related to diversity.",https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-2088710,,"go, social media, AI/ML, research, diversity"
 2086540,Inside Sales Contractor,"Credit Wellness, LLC",Worldwide,"About Us 
  We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive training and continuous sales coaching to help you meet your financial goals. 
  During our training period we offer a guaranteed training stipend while our trainees are acclimating to the position (*see weekly pay below). If you are a seasoned sales professional looking for the autonomy of a remote position combined with great compensation, we want to hear from you! 
@@ -988,7 +882,290 @@ job_id,title,company,location,description,url,salary,skills_required
  Sales: 1 year (Required) 
  
  
- Work Location:  Remote",https://remotive.com/remote-jobs/sales-business/inside-sales-contractor-2086540,OTE $25k - $35k,"CRM, google sheets, financial services, Inside Sales"
+ Work Location:  Remote",https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540,OTE $25k - $35k,"CRM, google sheets, financial services, Inside Sales"
+1680495,Office Assistant,Coalition Technologies ,Worldwide,"WHY YOU SHOULD APPLY: 
+   
+ Coalition Technologies is devoted to delivering clients the highest quality work while providing our team a fun, thriving, and innovative environment. Along with the opportunity for tremendous career growth and rapid advancement, CT offers: 
+ 
+ The most competitive profit-sharing bonus plan in the industry, paying up to 50% of company profits to full-time employees each month! 
+ A highly competitive Paid Time Off plan, promoting quality work-life balance. 
+ Subsidized gym memberships to help team members feel their best. 
+ Medical, dental, vision, and life insurance packages for all US-based team members. 
+ International Health Insurance Reimbursement Program for all international team members, a benefit unique to Coalition. 
+ Device upgrade and learning reimbursement programs. 
+ Motivating career development plans with clearly defined goals and rewards. 
+ Additional job-specific incentives and bonuses. 
+ 
+ Plus, 100% of our team works remotely with the support of time tracking software. Our company culture specializes in supporting remote team members, and we’ve been doing so for more than a decade. CT welcomes your application, wherever in the world it's coming from! 
+   
+ YOU SHOULD HAVE: 
+   
+ 
+ Willingness to learn, grow, and collaborate with the team and company as a whole. Excellent verbal and written communication skills. A high level of discretion, ethics, and trustworthiness. Intermediate spreadsheet skills (preferred) Innovative thinking and a willingness to challenge existing methods where improvement is possible. Experience in bookkeeping / financial record keeping (preferred). Experience with Google Sheets or Excel, Quickbooks Online, and G-Suite (preferred). The availability to work 40 hours per week from 9:00 am to 6:00 pm PST. A reliable space to work remotely with a fast computer, quality internet, camera, microphone, and speakers. 
+ 
+   
+ YOUR DUTIES AND TASKS: 
+   
+ 
+ Answering phones and emails. Completing entry-level bookkeeping, including recording expenses, organizing receipts, and completing other transaction records. Resolving billing issues with clients and internal team members. Providing account access, usage reports, data analysis, and other ad hoc requests for team members. Supporting quality assurance checks of various internal and client facing reporting. Organizing new client contracts, create invoices, and process client payments. Contributing to internal database maintenance, upkeep and data entry. Researching, ordering, & distributing company-wide gifts (2-3 times per year). Organizing company events, competitions, and special projects throughout the year. Facilitating company holiday, time off, and schedule variation calendars. 
+ 
+   
+ We are looking for talented and diligent candidates who excel in our skills tests, and will consider these candidates even if past experience or educational background criteria aren't met. 
+   
+ *California, New York, Washington, and Colorado: starting base pay for this position ranges between $15 - $25 per hour. 
+ Compensation may vary based on factors such as experience, qualifications, skills test performance, geographic location, and seniority of the position offered. Outside of California, New York, Washington, and Colorado compensation may fall outside the above ranges.",https://remotive.com/remote-jobs/marketing/office-assistant-1680495,"$31,2k- $52k","CSS, excel, frontend, git, html, illustrator, magento, photoshop, php, shopify, wordpress, MySQL, startup, responsive, themes, bootstrap, insurance, jQuery, Ajax"
+2088708,"🇩🇪 Senior/Staff Software Engineer PHP, TS, Rust, Kotlin (m/w/d)",easybill GmbH,Germany,"🇩🇪 This job ad is written in German. 🇩🇪 
+ easybill  ist eine cloudbasierte Rechnungssoftware, die sich durch einfache Anwendung, umfassende Funktionalität und vielfältige Anbindungen über Schnittstellen schon seit mehr als 18 Jahren am Markt behauptet. Aktuell haben wir mehr als 21.000 aktive Kunden und wachsen stetig weiter. Deshalb suchen wir nach einer motivierten Verstärkung für unser Team. 
+ Bei easybill arbeiten wir Remote-First, dein Wohnort ist uns egal - wir suchen die besten Kollegen*, nicht die schönste Stadt. Unsere festen Standorte befinden sich in Hamburg und Willich. Bei regelmäßigen Team-Events kommen wir trotzdem gerne zusammen, um uns auszutauschen und auch mal zu feiern. 
+ Das ideale Profil: PHP-, TypeScript- und Rust-Expertise, Founding-Engineer-Vibes und eine starke Präsenz auf GitHub. Passt das Profil nicht vollständig, bist du aber ein außergewöhnlich starker Engineer, bewirb dich trotzdem und zeig uns, was du gebaut hast. 
+ Aufgaben 
+ Wir sind ein sehr motiviertes Team aus Softwareentwicklern. Als Teil des Teams würdest du neue Features und/oder Skalierungslösungen entwickeln. Ownership ist uns wichtig. Wir erwarten hohe Eigenverantwortung, die Motivation, komplette Projekte umzusetzen, und den Willen, die E-Rechnungslandschaft mitzuformen. 
+ Die Hauptanwendung ist in PHP / TypeScript geschrieben, wir entwickeln aber auch in Kotlin und bevorzugt Rust. Wir nutzen intensiv MySQL (Percona XtraDB Cluster), TiDB, Elasticsearch, Redis, MinIO, Docker und einiges mehr. Der Umgang mit mehreren Programmiersprachen wird jedoch vorausgesetzt. 
+ 
+ Eigenständiges, motiviertes und selbstorganisiertes Arbeiten – wir investieren gerne in unsere Kollegen, haben aber auch hohe Erwartungen. 
+ Backend-Entwicklung (PHP + Symfony) 
+ Frontend-Entwicklung (TypeScript + React + TanStack) 
+ Entwicklung von Microservices via Rust / Java 
+ Migration von PHP-Code zu Rust. 
+ Migrationen von Daten, Refactoring 
+ Fehleranalyse und Debugging 
+ Du musst verstanden haben, wie man KI als Produktivitätshebel verwendet. Wir erwarten intensiven Einsatz von Claude Code. 
+ ggf. Arbeiten an der Infrastruktur und lokalen dockerisierten Entwicklungsumgebungen 
+ 
+ Qualifikation 
+ Grundsätzlich musst du nicht alles können. Uns ist wichtig, dass du uns zeigen kannst, dass du dich in deinem aktuellen Technologie-Stack richtig gut auskennst und uns glaubhaft machen kannst, dass du bereit bist, unseren Stack zügig zu lernen. 
+ 
+ Tiefe Kenntnisse im Bereich der Softwareentwicklung. Eingesetzt wird viel PHP und/oder je nach Schwerpunkt TypeScript, zudem haben wir etwas Java sowie Rust im Stack. Bist du Experte im Umgang mit Rust, Java, Go, Zig oder anderen Sprachen, lernen wir dich aber auch gerne kennen. 
+ Bonus: Erfahrung mit Rust, DSA, TS, verteilten Systemen, datenlastigen Anwendungen 
+ Bonus: Open-Source-Contributions oder öffentliche Experimente (GitHub) 
+ Sprache: Fließend Deutsch und gute Englischkenntnisse 
+ 
+ Benefits 
+ 
+ Deutschlandweit  Remote-First Team – keine Bindung an einen Standort 
+ Workation auf Mallorca - Unsere Mitarbeiter* haben die Möglichkeit, die angemietete Villa auf Mallorca für eine inspirierende Kombination aus Arbeit und Erholung zu nutzen 
+ Hoher Impact 
+ Eine inspirierende und flexible Arbeitsumgebung, die auf Vertrauen und Eigenverantwortung basiert. 
+ Wir sind ein offenes, motiviertes und nettes Team mit flacher Hierarchie 
+ Keine Sprints und künstlich erzeugter Druck 
+ Faire Vergütungspakete und Entwicklungsmöglichkeiten 
+ 30 Tage Jahresurlaub und einen unbefristeten Arbeitsvertrag 
+ Arbeitszeiten sind flexibel und werden mit dem Team abgestimmt 
+ Freiwillige Mitarbeiter-Events 
+ Aktuelle MacBook Pros 
+ Schulungen/Weiterbildungsmöglichkeiten im Wert von bis zu 1.500 Euro pro Jahr 
+ 
+ Wir haben vielfältige Herausforderungen und suchen einen motivierten Teamplayer! Wenn du dich hierin wiedererkennst und eine neue Herausforderung suchst, freuen wir uns auf deine Bewerbung. 
+ Wir freuen uns auf dich!",https://remotive.com/remote-jobs/software-development/senior-staff-software-engineer-php-ts-rust-kotlin-m-w-d-2088708,,"backend, docker, elasticsearch, frontend, go, java, php, react, kotlin, rust, Typescript , Redis, MySQL, Symfony, debugging, Micro services, github"
+1956455,iOS Developer,nooro,USA,"WHO ARE WE? 
+   
+ At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology. 
+   
+ Check our website here: https://nooro-us.com/ 
+   
+ We're a fast-moving startup that works on quick iteration and bold decisions. Our team is lean, agile, and empowered to make meaningful impacts daily. If you enjoy a dynamic environment where ideas become a reality at lightning speed and you're not afraid to wear multiple hats, you'll fit right in. 
+   
+ WHAT WILL YOU DO? 
+   
+ - Own and drive the development of our iOS application 
+ - Build elegant, performant features using **Swift (We’re 100% Swift!)** and **SwiftUI** 
+ - Implement complex UI/UX designs from **Figma** with pixel-perfect accuracy 
+ - Ensure app performance, quality, and responsiveness 
+ - Collaborate with our backend team on API integration 
+ - Write clean, modular, and reusable code 
+ - Participate in code reviews and architectural decisions 
+ - Help shape our mobile development practices 
+   
+ HOW TO APPLY?  
+   
+ If you believe we're the right fit, please fill in this form:  https://forms.gle/xeL6pPbdjMHo11A28 
+   
+ WHAT ARE THE REQUIREMENTS? 
+   
+ - 5+ years of professional iOS development experience 
+ - Strong expertise in Swift and SwiftUI 
+ - Deep understanding of iOS platform capabilities and limitations 
+ - Experience with iOS app architecture (MVVM preferred) 
+ - Experience with Core Data and local storage solutions 
+ - Proficiency in making RESTful API calls and handling responses 
+ - Experience with dependency injection on iOS 
+ - Strong version control skills with Git/GitHub 
+ - Experience with App Store deployment and TestFlight 
+ - Knowledge of iOS security best practices 
+   
+ APPLYING PROCESS 
+   
+ STEP 1 | QUESTIONNAIRE:  If you believe we're the right fit, please fill in this form:  https://forms.gle/xeL6pPbdjMHo11A28 
+   
+ STEP 2 | TEST: Once we review your form submission, we will send you a test 
+   
+ STEP 3 | TECHNICAL INTERVIEW: Once we review your test submission, you will have a call with our development leader 
+   
+ STEP 4 | BEHAVIORAL INTERVIEW: After the technical interview, you will have a call with our CEO to talk about the way our company and team members operate in general 
+   
+ WHAT DO WE OFFER? 
+   
+ - 100% remote work environment 
+ - Competitive compensation 
+ - Opportunity to make a meaningful impact in healthcare technology 
+ - Collaborative, innovative team culture",https://remotive.com/remote-jobs/software-development/ios-developer-1956455,$60k-$130k (depending on experience),"api, backend, git, ios, security, swift, UI/UX, Figma, agile, healthcare, startup, core data, github, REST, MVVM, mobile development"
+2088707,Senior Frontend Developer,Sanctuary Computer,"LATAM, Asia","We are hiring a contract-based  Senior Frontend Developer  for the garden3d creative collective with a focus on LATAM & Asia candidates. 
+   
+ This job posting here in Remotive is for sharing purposes only  and does not serve as the direct application for the role. To be considered, please complete our application form  here  to apply 
+ Original job posting link 
+ 🌎 About  garden3d 
+ We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. 
+ Our client roster includes  Google ,  Stripe ,  Figma ,  Hinge ,  Black Socialists in America ,  ACLU ,  Pratt ,  Parsons ,  Mozilla ,  The Nobel Prize ,  MIT ,  Gnosis ,  Etsy  &  Gagosian . 
+ We’re the software team behind innovative products like  The Light Phone  &  Mill , and we operate a global, decentralized community space collective called  Index Space . 
+ We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. 
+ 🔮  Who we’re looking for: 
+ We're looking for a  Senior Frontend Developer  who excels at building pixel-perfect websites using modern frontend frameworks. You'll collaborate with our team to build elegant, performant, and visually stunning web experiences. Your work will span a diverse range of client projects, from immersive brand websites to complex web applications, all requiring a keen eye for detail and technical excellence. 
+ This hiring effort will focus on Front-End Developers based in the LATAM or ASIA. 
+ In this role, you’ll work on a variety of client projects to find cost-effective, high-quality, pragmatic solutions to complex problems. Responsibilities will include: 
+ 
+ Collaborating with Technical Lead to meet clients' development needs 
+ Building and maintaining high-performance web applications with modern frontend frameworks and tools 
+ Implementing responsive, accessible, and pixel-perfect user interfaces based on design specifications 
+ Integrating frontend applications with headless CMS platforms, APIs, and third-party services 
+ Optimizing application performance, including bundle size, load times, and runtime efficiency 
+ Architecting scalable component libraries and design systems for consistency across projects 
+ Writing clear documentation for code maintenance and usage 
+ Participating in project team meetings, including Sprint Planning, daily standups, and retrospectives 
+ Participating in code reviews, providing constructive feedback to teammates and ensuring adherence to best practices 
+ 
+   
+ The person we’re looking for is happy, relaxed and easy to get along with. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart”, by carefully managing their workflow and staggering features that have dependencies intelligently — they prefer deep work but are OK coming up to the surface now and then for top level / strategic conversations. 
+   
+ We believe people with backgrounds or interests in design, art, music, food or fashion tend to have a well rounded sense of design & quality — so a variety of hobbies or side projects is a big nice to have! 
+ Must Have Competencies: 
+ We’re always pitching for new and exciting technology niches. Some of the areas below are relevant to us! 
+ 
+ 8+ years writing highly performant frontend code, an obsession for 95+ Lighthouse scores 
+ Expert level experience with Typescript, and one of Next.js, Nuxt, Svelte, Vue 
+ Extensive experience with headless CMS like Sanity, Contentful, Prismic or more 
+ Fluency in industry standard PaaS like Vercel, Netlify, Firebase, etc 
+ Fluency in eCommerce technologies like Shopify (headless & liquid), Stripe, Swell and others 
+ Experience building accessible, responsive interfaces with attention to performance optimization and SEO best practices 
+ Strong understanding of modern CSS methodologies (Tailwind, CSS Modules, etc) and animation libraries 
+ Experience with state management solutions (Redux, Zustand, Pinia) and API integration patterns 
+ Proficiency with testing frameworks (Jest, Playwright, Cypress) and commitment to writing maintainable, well-documented code 
+ Experience with design systems and component libraries, working closely with designers to ensure pixel-perfect implementations 
+ Real-time & performance optimization : experience with WebSockets for live data updates, caching strategies (Redis, CDN-level caching), CDN configuration and optimization (Cloudflare, Fastly), and image optimization techniques including proxies and delivery networks 
+ 
+   
+ Nice to Have Competencies: 
+ We’re always pitching for new and exciting technology niches. Some of the areas below are relevant to us! 
+ 
+ WebGL & Canvas expertise : experience building interactive graphics, animations, and visualizations using WebGL, Three.js, or native Canvas API 
+ Data visualization : creating compelling, interactive data visualizations with libraries like Mapbox, D3.js, Chart.js, or similar tools 
+ Full-stack development experience : comfortable working across the entire stack, from frontend to backend and database layers 
+ PostgreSQL expertise : strong experience with database design, query optimization, and managing complex relational data structures 
+ GraphQL & API design : building and maintaining GraphQL or REST APIs with a focus on performance and developer experience 
+ Real-time technologies : experience with WebSockets, Server-Sent Events, or similar technologies for building live, interactive features 
+ Authentication & security : implementing secure authentication flows (OAuth, JWT) and following security best practices 
+ Client-facing experience : working directly with customers to gather requirements and provide technical solutions 
+ Product management experience : defining product roadmaps and collaborating closely with stakeholders 
+ Engineering management experience : leading teams, setting technical direction, and mentoring developers 
+ 
+   
+ 💸  Compensation 
+ Our pay scale ranges from  $35p/hr  to  $95p/hr  pending seniority (& team leadership experience), and our projects are rarely less than 8 full time weeks at 40 hours per week. 
+ We prefer long standing relationships with highly accountable and communicative team members, so we encourage candidates to expect longer term engagements. 
+   
+ 🎤  How we interview: 
+ Our interview process starts with a call where you get to meet a few members of our team. From there we’ll ask appropriate candidates to take part in a technical exercise which helps illustrate skill level and comfort. 
+   
+ 👩‍🏭  How we work: 
+ We believe that there’s a better balance between the poles of freelancing & full time, and for that reason Sanctuary works differently to most shops: 
+ 
+ Transparency & Ownership:  We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community. 
+ 150% Carbon Negative:  Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same.  We have been certified climate neutral since 2021 . 
+ Strong Morals:  Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative). 
+ Async & Decentralized:  We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time. 
+ Remote Friendly:  Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process. 
+ Ideas & Products:  In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio? 
+ 
+ → Read more on our  Substack, over here , or our  Medium, over there .",https://remotive.com/remote-jobs/software-development/senior-frontend-developer-2088707,$80k - $120k,"api, backend, CSS, ecommerce, frontend, fullstack, graphql, postgresql, redux, security, seo, shopify, open source, paas, product management, documentation, mentoring, Typescript , Redis, web applications, cypress, data visualization, firebase, IoT, engineering management, runtime, responsive, prismic, testing, next.js, CMS, jest, REST, web sockets, performance optimization"
+2088706,Fullstack Developer (US - ET),Chooose,USA,"Chooose builds software to enable the lower carbon fuel value chain. 
+ Companies like Delta Air Lines, Cathay Pacific, British Airways, and Microsoft use the Chooose platform to build, operate, and scale their lower carbon fuel programs (typically referred to as Sustainable Aviation Fuel, or SAF), and to advance voluntary and compliance carbon management initiatives. 
+ With offices in Miami and Oslo, and remote employees across the US and Europe, Chooose is relentlessly focused on delivering enterprise software products to enable our customers to drive lower carbon fuel adoption. The company has raised $50M from leading venture capital and strategic investors. 
+ The role 
+ We are looking for a person who is open to new technologies, is not afraid to experiment, and is eager to learn. The ideal candidate will be self-driven and able to take charge and make decisions. You will develop internal applications to drive efficiency within the Chooose organization leveraging your development skills and modern AI technologies, build-out back-end services for our customers, and support our Commercial team through technical implementation with customer facing opportunities.  
+   
+ This is a remote role that must be based in Massachusetts, New York, Pennsylvania, Maryland, or Florida 
+   
+ What you'll do 
+ 
+ Maintain and scale complex front-end (React, Typescript) and back-end architecture (C#/.net) 
+ Work directly with external clients 
+ Develop and maintain Python-based data processing pipelines and command-line interface (CLI) tools. 
+ Develop and integrate AI/ML solutions into company processes and external facing products 
+ Have a hand in the technical implementation of our Platform and Solutions and support our Commercial team 
+ Creation of unit tests or integration tests (Vitest) 
+ Maintain and scale complex services 
+ Drive efficiency internally through scalable processes and applications 
+ 
+ What you'll bring to the table 
+ 
+ 5+ years of hands-on experience 
+ Strong organizational and project management skills. 
+ Excellent verbal communication skills. A bonus if you have managed external facing clients previously.  
+ Critical problem-solving skills. 
+ Meticulous attention to detail. 
+ Degree in computer science, engineering or equivalent. 
+ Must be based in Massachusetts, New York, Pennsylvania, Maryland, or Florida 
+ 
+ You'll stand out if you have knowledge of 
+ 
+ Azure (Azure functions) 
+ Integrations 
+ Python (Fast API) 
+ You have some experience incorporating AI features into SaaS products. 
+ 
+ The interview process 
+   
+ At Chooose, we prioritize transparency throughout our interview process. If your qualifications look like a fit, we’ll begin with a 2-3 introductory conversations where you'll have the chance to discuss your experience and learn more about our company. The second phase varies depending on the role and will most likely involve a practical exercise or live session so you can show your work. The third and final phase consists of a one-on-one in-person conversation with a member of our executive team. The process should take approx. 4 weeks. While we strive to keep to this timeline, the occasional adjustment may occur; we’re focused on ensuring for enough time to get to know one another. 
+   
+ Pay, perks, & more 
+   
+ We offer a competitive salary, a comprehensive benefits package including medical, dental, and vision insurance, voluntary 401k contributions, paid parental leave, a robust PTO package, the option to participate in our employee equity program, flexible work hours, and access to 'Spaces' coworking space. 
+   
+ We value diversity and believe forming teams in which everyone can be their authentic self is key to our success. We encourage people from underrepresented backgrounds and different industries to apply. 
+   
+ Compensation will be based on experience and skill, commensurate with market rates, and will include both salary and equity in Chooose. 
+   
+ Chooose is an equal opportunity employer and does not discriminate based on race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status. We are committed to providing an inclusive and welcoming environment to our employees and welcome input from candidates and employees on how we can enhance our inclusiveness. 
+   
+ Prerequisite for Employment: Chooose may request to conduct background checks on prospective applicants to verify the information provided in the CV, transcripts, and other documentation. This background check may be carried out by our partner and will not be conducted without the applicant's prior consent. Prospective applicants will receive more information about this.",https://remotive.com/remote-jobs/software-development/fullstack-developer-us-et-2088706,,"api, azure, fullstack, python, react, saas, AI/ML, project management, documentation, Typescript , computer science, diversity, insurance"
+2088704,Online Data Analyst (United States/Spanish speakers),TELUS Digital,USA,"Are you a detail-oriented individual with a passion for research and a good understanding of national and local geography? This freelance opportunity allows you to work at your own pace and from the comfort of your own home. 
+   
+ A Day in the Life of an Online Data Analyst: 
+ 
+ In this role, you will be working on a project aimed at enhancing the content and quality of digital maps that are used by millions of people worldwide 
+ Completing research and evaluation tasks in a web-based environment such as verifying and comparing data, and determining the relevance and accuracy of information. 
+ 
+   
+ Join us today and be part of a dynamic and innovative team that is making a difference in the world! 
+   
+ TELUS Digital AI Community 
+ Our global AI Community is a vibrant network of 1 million+ contributors from diverse backgrounds who help our customers collect, enhance, train, translate, and localize content to build better AI models. Become part of our growing community and make an impact supporting the machine learning models of some of the world’s largest brands. 
+ Qualification path 
+ No previous professional experience is required to apply to this role, however, working on this project will require you to pass the basic requirements and go through a standard assessment process. This is a part-time long-term project and your work will be subject to our standard quality assurance checks during the term of this agreement.  
+   
+ Basic Requirements 
+ 
+ Full Professional Proficiency in Spanish language 
+ Being a resident in United States for the last 2 consecutive years and having familiarity with current and historical business, media, sport, news, social media, and cultural affairs in United States 
+ Ability to follow guidelines and conduct online research using search engines, online maps, and website information 
+ Flexibility to work across a diverse set of task types, including maps, news, audio tasks, and relevance 
+ Daily access to a broadband internet connection, computer, and relevant software 
+ 
+   
+ Assessment 
+ In order to be hired into the program, you’ll take an open book qualification exam that will determine your suitability for the position and complete ID verification. Our team will provide you with guidelines and learning materials before your qualification exam. You will be required to complete the exam in a specific timeframe but at your convenience. 
+   
+ Equal Opportunity 
+ All qualified applicants will receive consideration for a contractual relationship without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status. At TELUS Digital AI, we are proud to offer equal opportunities and are committed to creating a diverse and inclusive community. All aspects of selection are based on applicants’ qualifications, merits, competence, and performance without regard to any characteristic related to diversity.",https://remotive.com/remote-jobs/all-others/online-data-analyst-united-states-spanish-speakers-2088704,,"go, social media, AI/ML, research, diversity"
 1185979,Freelance Writer,IAPWE,Worldwide,"Our organization is seeking content writers to create articles and blog posts on a variety of topics. 
    
  The rate of pay is $20 per 100 words (this comes out to approximately $100 per article or $50 per hour). 
@@ -1022,229 +1199,6 @@ job_id,title,company,location,description,url,salary,skills_required
  Work well as a team member with the rest of our content management and editorial staff 
  
  Note : Applicants to this job signaled that accessing some writing tasks may require payment.",https://remotive.com/remote-jobs/writing/freelance-writer-1185979,$50-$75 /hour,REST
-2088618,AI Internet Rater,Welo Data,USA,"OVERVIEW  
-   
- Welo Data is looking for English speakers to join a remote project as a Search Quality Rater. In this role, you will help improve how search engines understand and deliver useful results to users. 
-   
- What you’ll do: 
-   
- 
- Review search results and evaluate how helpful and relevant they are to the user’s query 
- Answer simple true/false questions about the quality of content 
- Rate whether search results meet the user’s needs using clear guidelines 
- Complete straightforward online tasks that contribute to improving AI systems 
- 
-   
- No specialized technical experience is required - we provide the guidelines and support you need to succeed! 
-   
- Please click here for a short demo of these types of tasks:  What Does a Search Quality Rater Do? (youtube.com) 
-   
- Why this work matters: 
- Your feedback helps train and improve AI technology, making search engines smarter and more useful for people around the world. 
-   
- Schedule & Support: 
- Fully remote position 
- Set your own schedule and complete tasks when it’s convenient for you 
- Support is available from the project management team during business hours (Monday–Friday, 9:00 AM – 5:30 PM Pacific) 
-   
-   
- Project Details 
-   
- Job Title:  AI Internet Rater/Search Quality Rater 
- Location:  Remote, US-based 
- Hours:  Minimum 10 hours per week, up to 29 hours per week; set your own schedule 
- Start date:  ASAP 
- Employment Type:  W2 Part-Time Employee, payment every 2 weeks 
- Longevity of project:  12 months (with possibility of extension). 
-   
- This work is based on project needs. Weekly hours may vary. 
-   
- Benefits 
- Employee Assistance Program  
-   
- Following eligibility requirements 
- Paid Sick Time 
- Medical Insurance 
- Dental Insurance 
- Vision Insurance 
- HSA 
- Voluntary Life Insurance 
- Accident, Critical Illness, Hospital Indemnity Insurance 
- 401(k) Retirement Plan 
-   
- Currently hiring in:  Alabama,   Florida, Georgia, Indiana, Kansas, Kentucky ,Missouri ,Montana, New Hampshire, North Carolina, Ohio, Oklahoma, Pennsylvania ,South Carolina, Tennessee, Texas, Utah, Virginia, West Virginia, Wisconsin. 
-   
- Applicants must be of at least 18 years of age to apply.",https://remotive.com/remote-jobs/ai-ml/ai-internet-rater-2088618,$14.5/hour,"AI/ML, project management, insurance"
-2088647,Senior Product Designer,XXIX,Worldwide,"We are hiring  contract-based  senior and director level product designers  with experience leading complex product design projects. Original job posting link  (URL here). About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT devices and cross platform apps. We share profit, open source everything, spin out new businesses, and invest in exciting ideas through financial and/or in-kind contributions. Our client roster includes  Google ,  Stripe ,  Figma ,  Hinge ,  Black Socialists in America ,  ACLU ,  Pratt ,  Parsons ,  Mozilla ,  The Nobel Prize ,  MIT ,  Gnosis ,  Etsy  &  Gagosian . We’re the software team behind innovative products like  The Light Phone  &  Mill , and we a global, decentralized community space collective called  Index Space . We think of our garden3d as collective for creative people, prioritizing a happy, talented, and diverse studio culture. We work on projects that bring value to our world, and we balance deep care for the work we do with a genuine curiosity about life outside of our jobs. Who we’re looking for: Right now, we're looking for a  Senior Product Designer with expertise in user experience, interface design, and product strategy, who can collaborate directly with clients and cross-functional teams. In this role, you'll work on a variety of client projects to create intuitive, engaging, and effective digital products. You would work on products across many industries, from e-commerce to connected hardware products to AI enabled interfaces. Responsibilities will include: Leading the design process from discovery through implementation, working closely with clients to understand business goals and user needs Creating user flows, wireframes, prototypes, and high-fidelity designs while maintaining a focus on both user experience and visual consistency Participating in design critiques, providing constructive feedback to teammates and ensuring adherence to design systems Contributing to project success by managing design workstreams, collaborating with developers, and meeting project milestones Presenting design solutions to clients and iterating based on feedback while maintaining design integrity The person we’re looking for is happy, relaxed and easy to get along with. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart”, by carefully managing their workflow and staggering features that have dependencies intelligently — they prefer deep work but are OK coming up to the surface now and then for top level / strategic conversations. We believe people with backgrounds or interests in design, art, music, food or fashion tend to have a well rounded sense of design & quality — so a variety of hobbies or side projects is a big nice to have! Compensation Our pay scale ranges from  $85 p/hr  to  $150 p/hr  pending client/seniority. Our projects are rarely less than 6 full time weeks. We prefer long standing relationships with highly accountable and communicative team members, so we encourage candidates to expect longer term engagements. Who you are The person we’re looking for is happy, relaxed and easy to get along with and appreciates a commitment to a culture of transparency, non-dictatorial leadership styles, and alternative methodologies. They’re flexible on anything except conceits that will lower their usually outstanding work quality. They work “smart” by carefully managing their workflow and team. How we interview Once we have reviewed all applications and identified a profile that  matches our requirements , a member of our team will reach out. Our interview process starts with an intro call to answer any questions you have about the role and to learn a bit more about your experience and interests. From there, we’ll follow up with a panel interview call where you get to meet a few members of our team, to openly discuss some of our challenges and ensure your skills and interests align with where we’re going as a business. For qualified candidates, the process wraps with a reference call, and an offer to follow. ‍ How we work: We believe that there’s a better balance between the poles of freelancing & full time, and for that reason Sanctuary works differently to most shops: Transparency & Ownership:  We release out Profit & Loss statements to the community each year, open source our best ideas, and talk business & money with everyone in the company. We’re proud to run our business with integrity, and for that reason we share everything with our team & community. 150% Carbon Negative:   Our studio offsets 150% of the carbon we use to do business each year, dated back to our founding in 2015. We turn down work that is not in-line with our morals, and we encourage our peers to do the same.  We have been certified climate neutral since 2021 . Strong Morals:   Since our founding, we've turned down somewhere between $1mm - $2mm of work that didn't meet our moral standards. (Most of that was DTC brands that can't show a valid sustainability initiative). Async & Decentralized:  We use tools optimized for calm, thoughtful communication, and opt for async whenever possible. We fight hard to maintain our focus time. Remote Friendly:  Our company is fluent in remote work, making our workplace more decentralized, and democratized in the process. Ideas & Products:  In our spare studio time, we work to build our own open source or internal products to diversify & bolster our income. We create amazing technology products for our clients, so why not for the studio? → Read more on our  Substack, over here , or our  Medium, over there . Important Reminders: We kindly ask that you  submit a complete and thoughtful application , including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process. Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying.",https://remotive.com/remote-jobs/design/senior-product-designer-2088647,$80k - $120k,"open source, AI/ML, product strategy, hardware, IoT, user flows, digital products"
-2088644,Senior Full-stack React Developer,Lemon.io,"Americas, Europe, Asia, Oceania","Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than  Lemon.io  — the marketplace that connects you with hand-picked startups in the US and Europe. 
-   
- What we offer: 
- 
- The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. 
- No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. 
- We'll manually find the best project for you according to your skills and preferences. 
- Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. 
- We respect your seniority so you can expect no micromanagement or screen trackers. 
- Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? 
- We will support you from the time you submit the application throughout all cooperation stages. 
- Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. 
- Through our community, we will connect you with the best developers from more than 71 countries. 
- 
-   
- Requirements for the Senior React & Python Position: 
- 
- 4+ years of software development experience. 
- 
- Commercial experience: 
- 
- 
- React.js 3+ years & Python 3+ years 
- OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years 
- 
- 
- Experience with AWS, GCP, or Azure is required. 
- 
- 
- Requirements for the Senior Node & React Position: 
- 
- 5+ years of software development experience. 
- 
- Commercial experience: 
- 
- 
- React.js 3+ years & Node.js 5+ years 
- OR React.js 5+ years & Node.js 3+ years 
- 
- 
- Expertise in Next, TypeScript, and AWS, or in Supabase, is a must. 
- 
- 
- Requirements for the Senior Golang & React Position: 
-   
- 
- 4+ years of software development experience. 
- 
- Commercial experience: 
- 
- React.js 3+ years & Golang .js 3+ years OR React.js 2+ years & Golang .js 5+ years OR React.js 5+ years & Golang .js 2+ years 
- 
-   
- Other requirements: 
- 
- Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. 
- Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. 
- Strong self-organizational skills — ability to work full-time remotely with no supervision. 
- Reliability — we want to trust you and expect that you won’t let us and the client down. 
- Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. 
- 
-   
- Sounds good for you? Apply now and join the  Lemon.io  community! 
- NOT YOUR TECH STACK? 
-   
- We have multiple projects available for Senior Developers. If you have 4+ years of commercial software development experience and are proficient in any of the following areas: AI Engineering, PHP & Angular, React & Java, Data Science, Blockchain (Web3/Solidity/Solana), Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, PHP & Vue, Vue & Node.js, DevOps, Android & iOS, Angular & Node.js, Python & Vue, MLOps, Rust, Golang, Shopify & JavaScript, Unreal Engine & C++, Python & LLM, Unity, Vue & Nuxt, Java & Spring, ML Engineering, or Python & Flask — we’d be happy to connect and match you with a suitable project. 
- 
-   
- 
- 
- 
- If your experience matches our requirements, be ready for the next steps: 
- 
- 
- 
- 
- 
- VideoAsk — watch a short video about our startup, up to 10 minutes 
- Complete your profile on our website 
- Intro call 
- Technical interview 
- Feedback 
- Magic Box (we are looking for the best project for you). 
- 
- We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. 
- P.S.  We work with developers from 71+ countries in different regions:  Europe, LATAM, the U.S. (if you are an owner of W-9 ben form), Canada, Asia (Japan, Singapore, South Korea, Philippines, Indonesia), Oceania (Australia, New Zealand, Papua New Guinea), and the the UK. However, we have some exceptions. 
- At the moment, we don’t have a legal basis to accept applicants from the following countries: 
- 
- European: Iceland, Liechtenstein, Kosovo, Belarus, Russia, and Serbia. 
- Latin America: Cuba and Nicaragua 
- Most Asian countries and Africa. 
- 
- We expand and shorten the list of exemptions regularly. 
- 
- Do you represent a company with engineers who match the description and want to collaborate with us through staff augmentation? Then register  here .",https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088644,,"android, AWS, azure, C++, data science, fullstack, golang, ios, java, javascript, node.js, php, python, react, react js, shopify, video, blockchain, AI/ML, rust, unity, spring, data analysis, solidity, flask, Typescript , angular , GCP, data engineering, Symfony, startup, marketplace, next.js"
-2088643,Shopify Engineer,Nebulab,Worldwide,"Job Description 
- We're looking for an experienced Shopify Engineer to join our team and help us deliver world-class eCommerce solutions for our clients. You'll work on challenging Shopify Plus projects, from custom theme development to headless commerce implementations, while collaborating with designers, strategists, and other developers to create exceptional digital experiences. 
-   
- As a Shopify Engineer at Nebulab, you'll have the opportunity to work with international mid-market and enterprise brands, tackle complex technical challenges, and contribute to the growth of our Shopify practice. We value continuous learning, open-source contributions, and knowledge sharing across the team. 
- Job Requirements 
- Essential: 
- 
- 3+ years of experience developing on the Shopify platform 
- Proficiency with Liquid templating and Shopify Theme development 
- Strong skills in JavaScript, React, and modern front-end technologies 
- Understanding of eCommerce fundamentals and best practices 
- Effective communication skills for working with both teammates and clients 
- Inclusive, community-driven mindset with eagerness to learn and share knowledge 
- Proficiency with Shopify Plus and the Shopify API 
- Hands-on experience with Shopify app development (both public and private apps) 
- 
- Nice to have: 
- 
- Experience with Shopify's Hydrogen framework and headless commerce approaches 
- Experience with Shopify CLI and Theme Kit 
- Familiarity with GraphQL and Shopify's Admin API 
- Knowledge of Ruby on Rails (useful for custom Shopify app development) 
- Experience with Shopify's checkout extensions and customizations 
- Past consulting or client management experience 
- 
- Job Responsibilities 
- First 3 months: 
- 
- Onboard and familiarize yourself with our Shopify development workflows and ongoing projects 
- Start contributing to theme customizations and app development tasks 
- Participate in code reviews and collaborate with cross-functional teams 
- 
- 3-6 months: 
- 
- Take on larger Shopify Plus projects and start leading implementations 
- Demonstrate impact on project delivery and client satisfaction 
- Integrate third-party services and APIs with Shopify stores 
- 
- 6-12 months: 
- 
- Fully own major Shopify projects from requirements to deployment 
- Mentor junior team members on Shopify development best practices 
- Run internal workshops and presentations to elevate team skills 
- Contribute to Shopify's ecosystem through app development, open-source contributions, and drive innovations in our Shopify service offerings 
- 
- Job Benefits 
- Compensation & Time Off: 
- 
- Competitive, geolocated base salary (50th-75th percentile of industry standards) 
- Company performance-based annual bonuses 
- Generous vacation days with flexible scheduling 
- 
- Work Environment: 
- 
- Fully remote culture with flexible working hours across global time zones 
- All necessary equipment for working from home: MacBook Pro, keyboard, mouse, external monitor, and headphones 
- 
- Professional Development: 
- 
- Investment time: use up to 10% of work hours for personal projects or professional development 
- Educational budget for books, courses, and learning resources 
- Partial coverage of conference attendance including travel, accommodation, and tickets 
- Weekly training activities with the team and industry experts 
- 
- Team & Culture: 
- 
- Dedicated manager with regular 1:1s and fair performance reviews 
- Annual team retreats to interesting locations 
- Regular company parties and celebrations 
- Regular online social events and activities 
- 
- Administrative: 
- 
- Coverage of taxes and contract maintenance fees for consultancy contracts or non-Italian residents",https://remotive.com/remote-jobs/software-development/shopify-engineer-2088643,€30k -  €60k,"admin, api, ecommerce, graphql, javascript, react, ruby/rails, shopify, travel"
 1749306,Copywriter,Coalition Technologies ,Worldwide,"WHO WE'RE LOOKING FOR 
  The ideal copywriter has excellent English writing skills and is excited to write high-quality, SEO-driven content that aligns with detailed, client-specific guidelines. Projects most commonly include writing web pages for eCommerce and lead generation business sites such as category pages, product descriptions, and blog posts. Our clientele is constantly evolving. We produce content for these and many other industry verticals: 
    
